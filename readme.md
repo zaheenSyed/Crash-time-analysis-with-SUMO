@@ -41,5 +41,12 @@ Open terminal and run the code.
 
 ## Follow the [Advanced Tutorial](https://sumo.dlr.de/docs/Tutorials/Hello_SUMO.html)
 
-- 
+- create nodes done ✅
+- creat edges [not done : dont know why]
+- creat .net file done✅
+- creat route file: 🚧
+- creat a config file
+- creat settings file
+
+
 

@@ -2,8 +2,12 @@
 
 This project with be a reproduction of the paper: 
 
+
+
+<p><img align="center" src="https://sdfestaticassets-us-east-1.sciencedirectassets.com/shared-assets/24/images/elsevier-non-solus-new-grey.svg" alt="ovi" width="100" /></p> 
+
 ["Towards reducing the number of crashes during hurricane evacuation: Assessing the potential safety impact of adaptive cruise control systems"](https://www.sciencedirect.com/science/article/pii/S0968090X21002047)
-![](https://sdfestaticassets-us-east-1.sciencedirectassets.com/shared-assets/24/images/elsevier-non-solus-new-grey.svg)
+
 
 First we need to download the street map from
 #### Step 1

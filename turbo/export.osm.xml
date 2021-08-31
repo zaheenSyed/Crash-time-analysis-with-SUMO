@@ -1,0 +1,8364 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.9 76e5016d",
+  "osm3s": {
+    "timestamp_osm_base": "2021-08-23T19:58:08Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 10224611,
+      "nodes": [
+        84718284,
+        84718281,
+        84718279,
+        84718277,
+        84718276,
+        84718274,
+        84718272,
+        84718270,
+        4072649415,
+        84718268
+      ],
+      "tags": {
+        "destination": "Micanopy",
+        "destination:ref": "CR 234",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "lit": "no",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Alachua, FL",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 10224785,
+      "nodes": [
+        84720390,
+        84720392,
+        84720394,
+        84720396,
+        84720398,
+        84720399,
+        84720400
+      ],
+      "tags": {
+        "highway": "motorway_link",
+        "lanes": "1",
+        "lit": "no",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Alachua, FL",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 10225766,
+      "nodes": [
+        84733667,
+        84733672,
+        84733674,
+        84733675,
+        84733676,
+        84733677,
+        84733679,
+        84733680,
+        84733681,
+        84733683,
+        84733686,
+        84733688,
+        84733689,
+        84733693,
+        84733695,
+        84733697,
+        84733700,
+        7073922735,
+        7073922734,
+        84733702,
+        2166336987
+      ],
+      "tags": {
+        "destination": "Gainesville;Williston",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Alachua, FL"
+      }
+    },
+    {
+      "type": "way",
+      "id": 10225930,
+      "nodes": [
+        84735465,
+        7064575320
+      ],
+      "tags": {
+        "destination": "Gainesville;Archer",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Alachua, FL",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 10226522,
+      "nodes": [
+        84741891,
+        84741892,
+        2699360773
+      ],
+      "tags": {
+        "bicycle": "no",
+        "destination": "Alachua County Rest Area",
+        "foot": "no",
+        "highway": "motorway_link",
+        "horse": "no",
+        "lanes": "1",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Alachua, FL",
+        "tiger:reviewed": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 10227270,
+      "nodes": [
+        2168047899,
+        3801708428,
+        2168047895,
+        84751032,
+        2168047875,
+        8852587042,
+        8852587041,
+        84751038,
+        84751039,
+        84751041,
+        84751043,
+        84751044
+      ],
+      "tags": {
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "smoothness": "intermediate",
+        "surface": "concrete",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 10227361,
+      "nodes": [
+        84752374,
+        84752372,
+        84752370,
+        84752367,
+        84752365,
+        84752364,
+        84752362,
+        84752359,
+        84752357,
+        84752353,
+        84752351,
+        84752349,
+        84752347,
+        84752344,
+        84752342
+      ],
+      "tags": {
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 10227403,
+      "nodes": [
+        84753049,
+        2699360789,
+        2699360788,
+        84753052,
+        2699360780
+      ],
+      "tags": {
+        "bicycle": "no",
+        "destination": "Alachua County Rest Area",
+        "foot": "no",
+        "highway": "motorway_link",
+        "horse": "no",
+        "lanes": "1",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Alachua, FL",
+        "tiger:reviewed": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 10229560,
+      "nodes": [
+        84773839,
+        84773841,
+        84773842,
+        84773845,
+        84773849,
+        84773852,
+        84773855,
+        84773859,
+        84773860,
+        84773862,
+        84773864,
+        84773865,
+        84773866,
+        84773867,
+        84773868,
+        84773869,
+        2755163199
+      ],
+      "tags": {
+        "destination": "Gainesville;Newberry",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Alachua, FL",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 10231678,
+      "nodes": [
+        2755163194,
+        84795560,
+        84795561,
+        84795562,
+        84795564,
+        84795566,
+        84795568,
+        84795572,
+        84795574,
+        4074207067,
+        84795575,
+        84795577
+      ],
+      "tags": {
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 10231783,
+      "nodes": [
+        4072782387,
+        84796648,
+        84796649,
+        84796651,
+        2755163195
+      ],
+      "tags": {
+        "destination:lanes": "Newberry|Newberry|Gainesville|Gainesville",
+        "embankment": "yes",
+        "highway": "motorway_link",
+        "lanes": "4",
+        "lit": "yes",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "left|left|slight_right|slight_right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 10234309,
+      "nodes": [
+        84817914,
+        4072782037,
+        84817916,
+        84817917,
+        3790912183
+      ],
+      "tags": {
+        "destination": "Gainesville;Archer",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Alachua, FL",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11075171,
+      "nodes": [
+        447888660,
+        4238099950,
+        4238099952,
+        4238099955,
+        98768951,
+        4238099958,
+        98768952,
+        4238099959,
+        4238099978
+      ],
+      "tags": {
+        "destination:ref": "CR 318",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Marion, FL"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11075172,
+      "nodes": [
+        447888585,
+        447888679,
+        4238108497,
+        447888680,
+        4238108496,
+        447888681,
+        4238108495,
+        4238108494,
+        4238099976
+      ],
+      "tags": {
+        "destination:ref": "CR 318",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Marion, FL"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48681661,
+      "nodes": [
+        618090102,
+        4238328004,
+        447888645,
+        4238328005,
+        447888646,
+        447888647,
+        4238328006,
+        447888648,
+        4238328008,
+        447888649,
+        4238328009,
+        447888650,
+        7928219187
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48681663,
+      "nodes": [
+        618090111,
+        618090102
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "bridge": "yes",
+        "bridge:structure": "beam",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "layer": "1",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "concrete",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48681664,
+      "nodes": [
+        98879738,
+        618090116
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "bridge": "yes",
+        "bridge:structure": "beam",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "layer": "1",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "concrete",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48681666,
+      "nodes": [
+        618090116,
+        4238328003,
+        4238328000,
+        4238327998,
+        4238327996,
+        98879736,
+        4238327990,
+        4238327988,
+        4238327986,
+        4238327984,
+        98879732,
+        4238327982,
+        447888576,
+        4238327973,
+        4238327969,
+        4238327964,
+        447888567,
+        4238327945,
+        447888565,
+        4238327940,
+        447888562,
+        4238327934,
+        4238327931,
+        447888559,
+        98879720,
+        4238327915,
+        4238327913,
+        4238327910,
+        447888558,
+        4238327906,
+        98787116,
+        4238327903,
+        4238327902,
+        447888557
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48681698,
+      "nodes": [
+        4238108499,
+        4238108501,
+        447888662,
+        4238108503,
+        4238108506,
+        4238108508,
+        447888663,
+        4238108510,
+        4238108512,
+        447888664,
+        4238108514,
+        447888665,
+        4238108515,
+        447888666,
+        447888667,
+        4238108518,
+        447888668
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48681699,
+      "nodes": [
+        618091268,
+        618091257
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "bridge": "yes",
+        "bridge:structure": "beam",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "layer": "1",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "concrete",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48681700,
+      "nodes": [
+        618091278,
+        618091280
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "bridge": "yes",
+        "bridge:structure": "beam",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "layer": "1",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "concrete",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48681701,
+      "nodes": [
+        4238099945,
+        98879776,
+        98879775,
+        4238099941,
+        98879774,
+        4238099939,
+        98879773,
+        4238099938,
+        4238099937,
+        98879770,
+        4238099936,
+        4238099934,
+        4238099932,
+        4238099930,
+        4238099928,
+        98879759,
+        4238099926,
+        4238328015,
+        98879749,
+        4238328013,
+        98879747,
+        4238328012,
+        98879744,
+        7928219186
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48681740,
+      "nodes": [
+        447888668,
+        447888669
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "bridge": "yes",
+        "bridge:structure": "beam",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "layer": "1",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "concrete",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48681743,
+      "nodes": [
+        98879800,
+        98879799
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "bridge": "yes",
+        "bridge:structure": "beam",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "layer": "1",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "concrete",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48681744,
+      "nodes": [
+        98879799,
+        4238108517,
+        98879798,
+        98879795,
+        4238108516,
+        98879792,
+        4238108513,
+        98879791,
+        4238108511,
+        4238108509,
+        98879789,
+        4238108507,
+        4238108504,
+        4238108502,
+        98879786,
+        4238108500,
+        4238108498
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48681745,
+      "nodes": [
+        447888669,
+        4236513742,
+        4236513743,
+        4236513744,
+        447888670,
+        4236513750,
+        447888671,
+        447888672,
+        4236513753,
+        447888673,
+        4236513757,
+        447888674,
+        4236513759,
+        4236513761,
+        447888675,
+        4236513762,
+        4236513764,
+        4236513766,
+        447888676,
+        4236513768,
+        4236513770,
+        447888677,
+        4236513772,
+        4236513774,
+        84847394,
+        4236513777,
+        84847390,
+        84847388,
+        84847386,
+        84847384,
+        84847383,
+        84847381,
+        84847380,
+        84847378,
+        84847377,
+        84720381,
+        618095532
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48681865,
+      "nodes": [
+        4072649431,
+        84847375,
+        84847373,
+        84847371,
+        84847369,
+        84847367,
+        84847366,
+        84847365,
+        84847364,
+        84847361,
+        84847360,
+        84847358,
+        84847357,
+        84847355,
+        84847354,
+        84847352,
+        84847351,
+        84847349,
+        84847348,
+        84847346,
+        84847344,
+        84847343,
+        84847341,
+        84847339,
+        84847338,
+        84847337,
+        84847336,
+        84847335,
+        84847334,
+        84847333,
+        84847332,
+        84847329,
+        84847327,
+        84847326,
+        4072649819,
+        84847325,
+        84847323,
+        84847322,
+        84847320,
+        84847319,
+        4072649843
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "no",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48681866,
+      "nodes": [
+        618095532,
+        618095462
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "bridge": "yes",
+        "bridge:structure": "beam",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "layer": "1",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48681867,
+      "nodes": [
+        618095559,
+        618095664
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "bridge": "yes",
+        "bridge:structure": "beam",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "layer": "1",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48681868,
+      "nodes": [
+        4236513782,
+        84846739,
+        84846737,
+        84846736,
+        84846735,
+        84846734,
+        84846733,
+        84846732,
+        84846730,
+        84846729,
+        4236513776,
+        98879828,
+        4236513773,
+        4236513771,
+        98879826,
+        4236513769,
+        4236513767,
+        98879820,
+        4236513765,
+        4236513763,
+        98879813,
+        4236513760,
+        4236513758,
+        98879811,
+        4236513756,
+        4236513755,
+        98879810,
+        4236513754,
+        98879808,
+        4236513752,
+        4236513751,
+        98879806,
+        98879800
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48682110,
+      "nodes": [
+        618105880,
+        84847261
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "bridge": "yes",
+        "bridge:structure": "beam",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "layer": "1",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "concrete",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48682116,
+      "nodes": [
+        4072782246,
+        84846855,
+        84846853,
+        84846849,
+        84846845,
+        84846843,
+        84846842,
+        1746843079
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48682118,
+      "nodes": [
+        84846864,
+        618105959
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "bridge": "yes",
+        "bridge:structure": "beam",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "4",
+        "layer": "1",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "concrete",
+        "toll": "no",
+        "turn:lanes": "through|through|through|slight_right",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48682127,
+      "nodes": [
+        84714158,
+        84847283
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "bridge": "yes",
+        "bridge:structure": "beam",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "no",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "smoothness": "intermediate",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "concrete",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48682128,
+      "nodes": [
+        84847283,
+        84847282,
+        84847280,
+        84735487
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48682129,
+      "nodes": [
+        84714159,
+        84846836,
+        84846834,
+        84751052,
+        1746843070,
+        84846831,
+        4072677615
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48682130,
+      "nodes": [
+        84846837,
+        84714159
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "bridge": "yes",
+        "bridge:structure": "beam",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "no",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "smoothness": "intermediate",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "concrete",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48682131,
+      "nodes": [
+        4072677616,
+        84847293,
+        1746843071,
+        84735465,
+        84847288,
+        84847285,
+        84714158
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "no",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48682132,
+      "nodes": [
+        618106183,
+        84847299
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "bridge": "yes",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "4",
+        "layer": "1",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "concrete",
+        "toll": "no",
+        "turn:lanes": "through|through|through|slight_right",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48682144,
+      "nodes": [
+        84743370,
+        84846825
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "bridge": "yes",
+        "change:lanes": "yes|yes|not_right|no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "4",
+        "layer": "1",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "concrete",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48682149,
+      "nodes": [
+        4072649836,
+        84846805,
+        84846804,
+        84846803,
+        84846801,
+        4072649814,
+        84846799,
+        84846798,
+        84846792,
+        84846791,
+        84846789,
+        84846788,
+        84846787,
+        84846785,
+        84846782,
+        84846780,
+        84846778,
+        84846776,
+        84846775,
+        84846774,
+        84846772,
+        84846771,
+        84846770,
+        84846769,
+        84846768,
+        84846767,
+        84846763,
+        84846762,
+        84846760,
+        84846757,
+        84846755,
+        84846754,
+        84846751,
+        84846750,
+        84846748,
+        84846744,
+        84846741,
+        84846740,
+        84718284,
+        618095559
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "no",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 162880928,
+      "nodes": [
+        1746843160,
+        84847277,
+        84847275,
+        84847273,
+        84847272,
+        84847270,
+        84847268,
+        84847265,
+        84847264,
+        84796646
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 162881125,
+      "nodes": [
+        1746843072,
+        1746843160
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "bridge": "yes",
+        "bridge:structure": "beam",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "layer": "1",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "concrete",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 162881265,
+      "nodes": [
+        1746843079,
+        84846840
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "bridge": "yes",
+        "bridge:structure": "beam",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "layer": "1",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "concrete",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 162881413,
+      "nodes": [
+        84846840,
+        84846839,
+        4072782039
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 206605160,
+      "nodes": [
+        84733704,
+        7073922708,
+        7073922707,
+        2166336965,
+        2166336984,
+        2166336985,
+        2166337008
+      ],
+      "tags": {
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Alachua, FL"
+      }
+    },
+    {
+      "type": "way",
+      "id": 206605161,
+      "nodes": [
+        2166336961,
+        4090258383,
+        84733704
+      ],
+      "tags": {
+        "destination": "Gainesville",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "name": "Southwest Williston Road",
+        "oneway": "yes",
+        "sidewalk": "none"
+      }
+    },
+    {
+      "type": "way",
+      "id": 206605170,
+      "nodes": [
+        4072677608,
+        84793273,
+        84793275,
+        84793277,
+        2166336936,
+        2166336934,
+        2166336931,
+        2166336927,
+        2166336926,
+        2166336906
+      ],
+      "tags": {
+        "destination:lanes": "Gainesville|Gainesville|Williston",
+        "highway": "motorway_link",
+        "lanes": "3",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Alachua, FL",
+        "turn:lanes": "left|left;through|right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 206605173,
+      "nodes": [
+        2166336924,
+        84743408,
+        84743406,
+        84743404,
+        84743401,
+        84743398,
+        84743397,
+        84743395,
+        84743393,
+        84743389,
+        84743388,
+        84743385,
+        84743383,
+        84743380,
+        84743378,
+        84743375,
+        84743374,
+        84743371,
+        84743370
+      ],
+      "tags": {
+        "highway": "motorway_link",
+        "lanes": "1",
+        "lit": "no",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Alachua, FL",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 206605176,
+      "nodes": [
+        2166336987,
+        7073922736,
+        2166336967,
+        2166336959,
+        2166336957,
+        2166336952
+      ],
+      "tags": {
+        "destination": "Williston",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 206605178,
+      "nodes": [
+        2166336909,
+        2166336903,
+        2166336901,
+        2166336905,
+        2166336908,
+        2166336924
+      ],
+      "tags": {
+        "highway": "motorway_link",
+        "lanes": "1",
+        "lit": "yes",
+        "oneway": "yes",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 206605179,
+      "nodes": [
+        2166336906,
+        2166336900,
+        4072677594,
+        2166336881,
+        2166336874,
+        2166336871,
+        2166336868
+      ],
+      "tags": {
+        "destination": "Williston",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "lit": "no",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 206605180,
+      "nodes": [
+        2166337009,
+        2166337005,
+        2166336988,
+        2166336989,
+        2166337007,
+        2166337008
+      ],
+      "tags": {
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 206766095,
+      "nodes": [
+        2168047874,
+        2168047877,
+        3801708512,
+        2168047878,
+        2168047876,
+        2168047875
+      ],
+      "tags": {
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "smoothness": "intermediate",
+        "surface": "concrete",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 206766097,
+      "nodes": [
+        2168047982,
+        2168047979,
+        3801708557,
+        2168047965,
+        2168047978,
+        2168047980,
+        2168047983,
+        2168047985,
+        84735481
+      ],
+      "tags": {
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 264250384,
+      "nodes": [
+        84753065,
+        84753068
+      ],
+      "tags": {
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "motorway_link",
+        "horse": "no",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Alachua, FL",
+        "tiger:reviewed": "yes",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 264250386,
+      "nodes": [
+        2699360787,
+        84741903,
+        84741904
+      ],
+      "tags": {
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "motorway_link",
+        "horse": "no",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Alachua, FL",
+        "tiger:reviewed": "yes",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 270505080,
+      "nodes": [
+        2755163190,
+        3790913630,
+        2755163191,
+        2755163192,
+        7071444492,
+        2755163193,
+        2755163194
+      ],
+      "tags": {
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 270505081,
+      "nodes": [
+        2755163195,
+        7071444499,
+        3797105808,
+        2755163196,
+        7071444500,
+        2755163197,
+        7862946941,
+        7862946942,
+        3205671864
+      ],
+      "tags": {
+        "destination": "Gainesville",
+        "highway": "motorway_link",
+        "lanes": "2",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 270505082,
+      "nodes": [
+        2755163199,
+        2755163200,
+        2755163201,
+        3205671870
+      ],
+      "tags": {
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 270505083,
+      "nodes": [
+        3205671876,
+        3791466341,
+        2755163204,
+        2755163205,
+        2755163206,
+        84752374
+      ],
+      "tags": {
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 375743334,
+      "nodes": [
+        3790911952,
+        7064575317,
+        84735477,
+        84735478,
+        3801708447,
+        2168047956,
+        84714156,
+        3801708452,
+        84735481
+      ],
+      "tags": {
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 375743402,
+      "nodes": [
+        2755163199,
+        3791466339,
+        3797071525,
+        3797071528,
+        3797071533
+      ],
+      "tags": {
+        "fixme": "add street and create proper intersection",
+        "highway": "motorway_link",
+        "lanes": "2",
+        "oneway": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "left|through"
+      }
+    },
+    {
+      "type": "way",
+      "id": 375743427,
+      "nodes": [
+        3790912183,
+        84817918,
+        84817919,
+        84817920
+      ],
+      "tags": {
+        "destination:lanes": "Gainesville|Gainesville|Archer",
+        "highway": "motorway_link",
+        "lanes": "3",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Alachua, FL",
+        "toll": "no",
+        "turn:lanes": "left|left|right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 375743440,
+      "nodes": [
+        84817920,
+        2168047950,
+        84817922,
+        2168047923,
+        3801708436,
+        84714163
+      ],
+      "tags": {
+        "destination": "Gainesville",
+        "highway": "motorway_link",
+        "lanes": "4",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "left|left|left|right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398561496,
+      "nodes": [
+        447888635,
+        4238327905,
+        447888636,
+        4238327911,
+        4238327914,
+        4238327916,
+        447888638,
+        4238327930,
+        4238327933,
+        447888639,
+        4238327941,
+        447888640,
+        4238327947,
+        447888641,
+        4238327963,
+        4238327970,
+        4238327974,
+        447888642,
+        4238327983,
+        447888643,
+        4238327985,
+        4238327987,
+        4238327989,
+        4238327991,
+        447888644,
+        4238327997,
+        4238327999,
+        4238328001,
+        4238328002,
+        618090111
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405037832,
+      "nodes": [
+        618095462,
+        84720400
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "no",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405037833,
+      "nodes": [
+        4072649843,
+        84741891
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "destination:lanes": "|||Alachua County Rest Area",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "4",
+        "lit": "no",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "through|through|through|slight_right",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405037834,
+      "nodes": [
+        84741904,
+        4072649899
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "change:lanes": "yes|yes|not_right|no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "4",
+        "lit": "no",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405037835,
+      "nodes": [
+        84720400,
+        4072649431
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "4",
+        "lit": "no",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "through|through|through|merge_to_left",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405037836,
+      "nodes": [
+        4072649899,
+        4072649901
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "4",
+        "lit": "no",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "through|through|through|merge_to_left",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405037837,
+      "nodes": [
+        4072649841,
+        4072649836
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "4",
+        "lit": "no",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "through|through|through|merge_to_left",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405037838,
+      "nodes": [
+        4072649897,
+        84846816,
+        84753049
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "destination:lanes": "|||Alachua County Rest Area",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "4",
+        "lit": "no",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "through|through|through|slight_right",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405037839,
+      "nodes": [
+        84753068,
+        84846806,
+        4072649841
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "change:lanes": "yes|yes|not_right|no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "4",
+        "lit": "no",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405037840,
+      "nodes": [
+        84846825,
+        84846823,
+        4072649914
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "4",
+        "lit": "no",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "through|through|through|merge_to_left",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405037841,
+      "nodes": [
+        4072649914,
+        84846822,
+        84846820,
+        84846819,
+        84846817,
+        4072649897
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "no",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405037842,
+      "nodes": [
+        84741891,
+        84847317,
+        84847315,
+        84847313,
+        84847312,
+        84741904
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "no",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405037843,
+      "nodes": [
+        84753049,
+        84846815,
+        84846814,
+        84846810,
+        84846809,
+        84846807,
+        84753068
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "no",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405037844,
+      "nodes": [
+        4072649901,
+        84847311,
+        84847310,
+        84847309,
+        84847307,
+        84847305,
+        84847304,
+        84847302,
+        618106183
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "no",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405037863,
+      "nodes": [
+        84718268,
+        84718266,
+        84718265,
+        84718264,
+        84718262,
+        84718261,
+        84718259
+      ],
+      "tags": {
+        "highway": "motorway_link",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Alachua, FL"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405040547,
+      "nodes": [
+        84847299,
+        84733667
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "4",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "through|through|through|slight_right",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405040548,
+      "nodes": [
+        84733667,
+        84790744
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405040550,
+      "nodes": [
+        84790744,
+        84847294
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "change:lanes": "yes|yes|not_right|no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "4",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405040551,
+      "nodes": [
+        84847294,
+        4072677616
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "4",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "through|through|through|merge_to_left",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405040552,
+      "nodes": [
+        4072677615,
+        84793267
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "4",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "through|through|through|slight_right",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405040553,
+      "nodes": [
+        84793267,
+        84846829,
+        84743370
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405040578,
+      "nodes": [
+        2166336987,
+        618106896,
+        618106898,
+        2166336961
+      ],
+      "tags": {
+        "destination": "Gainesville",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Alachua, FL"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405040582,
+      "nodes": [
+        2166336906,
+        2166336896,
+        2166336878,
+        2166336876,
+        84743409
+      ],
+      "tags": {
+        "destination": "Gainesville",
+        "highway": "motorway_link",
+        "lanes": "2",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Alachua, FL",
+        "turn:lanes": "left|left;through"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405040586,
+      "nodes": [
+        84793267,
+        84793269,
+        84793270,
+        84793272,
+        4072677608
+      ],
+      "tags": {
+        "destination": "Gainesville;Williston",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "lit": "no",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Alachua, FL",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405052405,
+      "nodes": [
+        84752342,
+        4072782319
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "change:lanes": "yes|yes|not_right|no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "4",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405052406,
+      "nodes": [
+        4072782039,
+        84817914
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "destination:lanes": "|||Gainesville;Archer",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "4",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "turn:lanes": "through|through|through|slight_right",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405052407,
+      "nodes": [
+        84817914,
+        84846837
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405052408,
+      "nodes": [
+        4072782319,
+        84846858,
+        4072782246
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "4",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "through|through|through|merge_to_left",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405052409,
+      "nodes": [
+        84773839,
+        84846861,
+        84752342
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405052524,
+      "nodes": [
+        3797105806,
+        4072782373,
+        4072782387
+      ],
+      "tags": {
+        "destination:lanes": "Newberry|Gainesville",
+        "embankment": "yes",
+        "highway": "motorway_link",
+        "lanes": "2",
+        "oneway": "yes",
+        "turn:lanes": "left;right|right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405052532,
+      "nodes": [
+        84796646,
+        3797105801,
+        3797105805,
+        3797105806
+      ],
+      "tags": {
+        "destination": "Gainesville;Newberry",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "lit": "yes",
+        "oneway": "yes",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405052537,
+      "nodes": [
+        2755163195,
+        3797105807,
+        3791466325,
+        3205671866,
+        84796653
+      ],
+      "tags": {
+        "destination": "Newberry",
+        "highway": "motorway_link",
+        "lanes": "2",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "left|left"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405202674,
+      "nodes": [
+        4074207080,
+        4074207087
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "4",
+        "lit": "no",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "smoothness": "intermediate",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "through|through|through|merge_to_left",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405202703,
+      "nodes": [
+        84795577,
+        4074207080
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "change:lanes": "yes|yes|not_right|no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "4",
+        "lit": "no",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "smoothness": "intermediate",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405202708,
+      "nodes": [
+        618105959,
+        84773839
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "4",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "turn:lanes": "through|through|through|slight_right",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405202713,
+      "nodes": [
+        84847261,
+        84847257,
+        84795577
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "no",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "smoothness": "intermediate",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405202715,
+      "nodes": [
+        4074207556,
+        84846873,
+        4074207495,
+        84846867,
+        84846866,
+        84846864
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "no",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "smoothness": "good",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405202719,
+      "nodes": [
+        4074207087,
+        84847254,
+        84847251,
+        84847250,
+        84847249,
+        84847247,
+        7862964100
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "no",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "smoothness": "intermediate",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 407102065,
+      "nodes": [
+        3205671862,
+        3205671888,
+        84795552,
+        3790913629,
+        84795555,
+        84795558,
+        2755163194
+      ],
+      "tags": {
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424188992,
+      "nodes": [
+        618095664,
+        84718259
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424188993,
+      "nodes": [
+        84718259,
+        4236513782
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "4",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424387831,
+      "nodes": [
+        618091257,
+        447888661
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424387832,
+      "nodes": [
+        4238108498,
+        447888585
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "4",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424387833,
+      "nodes": [
+        447888661,
+        4238108499
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "4",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424387834,
+      "nodes": [
+        447888585,
+        618091278
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424387835,
+      "nodes": [
+        98768950,
+        4238099945
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "4",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424387836,
+      "nodes": [
+        618091280,
+        4238099954,
+        98768950
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424387838,
+      "nodes": [
+        4238099971,
+        4238099969,
+        4238099967,
+        4238099960
+      ],
+      "tags": {
+        "destination:ref": "CR 318",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Marion, FL"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424387839,
+      "nodes": [
+        4238099984,
+        4238099986,
+        4238099988,
+        4238108493
+      ],
+      "tags": {
+        "destination:ref": "CR 318",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Marion, FL"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424387840,
+      "nodes": [
+        4238099978,
+        4238099979,
+        4238099981,
+        4238099982
+      ],
+      "tags": {
+        "destination:ref": "CR 318",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Marion, FL"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424387841,
+      "nodes": [
+        4238099976,
+        4238099974,
+        4238099972,
+        4238099973
+      ],
+      "tags": {
+        "destination:ref": "CR 318",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Marion, FL"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424387842,
+      "nodes": [
+        4238108493,
+        98768957,
+        447888678,
+        447888661
+      ],
+      "tags": {
+        "destination:ref": "CR 318",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Marion, FL"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424387843,
+      "nodes": [
+        4238099976,
+        4238099975,
+        4238099970,
+        4238099968,
+        4238099966
+      ],
+      "tags": {
+        "destination:ref": "CR 318",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Marion, FL"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424387844,
+      "nodes": [
+        4238108490,
+        4238108489,
+        4238108491,
+        4238108492,
+        4238108493
+      ],
+      "tags": {
+        "destination:ref": "CR 318",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Marion, FL"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424387845,
+      "nodes": [
+        4238099978,
+        4238099980,
+        4238099983,
+        4238099985,
+        4238099987
+      ],
+      "tags": {
+        "destination:ref": "CR 318",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Marion, FL"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424387846,
+      "nodes": [
+        4238099964,
+        4238099963,
+        4238099962,
+        4238099961,
+        4238099960
+      ],
+      "tags": {
+        "destination:ref": "CR 318",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Marion, FL"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424387847,
+      "nodes": [
+        4238099960,
+        98768968,
+        4238099957,
+        98768970,
+        4238099956,
+        98768972,
+        4238099949,
+        98768950
+      ],
+      "tags": {
+        "destination:ref": "CR 318",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Marion, FL"
+      }
+    },
+    {
+      "type": "way",
+      "id": 426104317,
+      "nodes": [
+        84720381,
+        84720383,
+        84720384,
+        84720386,
+        84720388,
+        84720390
+      ],
+      "tags": {
+        "destination:ref": "CR 234",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "lit": "no",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Alachua, FL",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 707546380,
+      "nodes": [
+        84796646,
+        84847263,
+        618105880
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 707546381,
+      "nodes": [
+        84735487,
+        84847278,
+        1746843072
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 707546382,
+      "nodes": [
+        84735481,
+        84735482,
+        84735483,
+        84735484,
+        84735485,
+        84735487
+      ],
+      "tags": {
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 707546384,
+      "nodes": [
+        84714163,
+        2168047899
+      ],
+      "tags": {
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 707546385,
+      "nodes": [
+        3797071532,
+        3797071528,
+        3797071526,
+        3205671852,
+        3791466338,
+        84752374
+      ],
+      "tags": {
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 756364205,
+      "nodes": [
+        84751044,
+        7064575321,
+        84751052
+      ],
+      "tags": {
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 756364206,
+      "nodes": [
+        7064575320,
+        7064575319,
+        84735471,
+        84735474,
+        84735475,
+        7064575318,
+        3790911952
+      ],
+      "tags": {
+        "destination": "Gainesville;Archer",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "concrete",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Alachua, FL",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 757456815,
+      "nodes": [
+        2166337008,
+        84790724,
+        84790725,
+        84790727,
+        84790728,
+        84790730,
+        84790732,
+        84790734,
+        84790735,
+        84790737,
+        84790739,
+        84790741,
+        84790742,
+        84790744
+      ],
+      "tags": {
+        "highway": "motorway_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Alachua, FL"
+      }
+    },
+    {
+      "type": "way",
+      "id": 778959588,
+      "nodes": [
+        84743409,
+        2166336879,
+        2166336898,
+        2166336924
+      ],
+      "tags": {
+        "highway": "motorway_link",
+        "lanes": "1",
+        "lit": "no",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Alachua, FL",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 849778453,
+      "nodes": [
+        7928219186,
+        7928219187
+      ],
+      "tags": {
+        "highway": "motorway_link"
+      }
+    },
+    {
+      "type": "way",
+      "id": 849778454,
+      "nodes": [
+        7928219186,
+        4238328010,
+        98879742,
+        4238328007,
+        98879740,
+        98879738
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "way",
+      "id": 849778455,
+      "nodes": [
+        7928219187,
+        4238328011,
+        447888651,
+        447888652,
+        4238328016,
+        4238099927,
+        447888653,
+        4238099929,
+        4238099931,
+        4238099933,
+        4238099935,
+        447888654,
+        447888656,
+        4238099940,
+        447888657,
+        4238099942,
+        447888658,
+        4238099943,
+        4238099944,
+        447888660,
+        618091268
+      ],
+      "tags": {
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "fdot:fihs": "404",
+        "fdot:sis": "yes",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "3",
+        "maxspeed": "70 mph",
+        "oneway": "yes",
+        "ref": "I 75",
+        "sidewalk": "none",
+        "source:maxspeed": "FDOT \"Maximum Speed Limits\" GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm",
+        "surface": "asphalt",
+        "toll": "no",
+        "unsigned_ref": "SR 93"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4238327945,
+      "lat": 29.3098272,
+      "lon": -82.208388
+    },
+    {
+      "type": "node",
+      "id": 447888567,
+      "lat": 29.3125051,
+      "lon": -82.209135
+    },
+    {
+      "type": "node",
+      "id": 447888641,
+      "lat": 29.3124464,
+      "lon": -82.208876
+    },
+    {
+      "type": "node",
+      "id": 4238327963,
+      "lat": 29.3158902,
+      "lon": -82.2098414
+    },
+    {
+      "type": "node",
+      "id": 4238327964,
+      "lat": 29.315908,
+      "lon": -82.210089
+    },
+    {
+      "type": "node",
+      "id": 98879732,
+      "lat": 29.3236939,
+      "lon": -82.2125439
+    },
+    {
+      "type": "node",
+      "id": 447888576,
+      "lat": 29.3192989,
+      "lon": -82.2111173
+    },
+    {
+      "type": "node",
+      "id": 447888642,
+      "lat": 29.3193147,
+      "lon": -82.210879
+    },
+    {
+      "type": "node",
+      "id": 447888643,
+      "lat": 29.3237119,
+      "lon": -82.2123038
+    },
+    {
+      "type": "node",
+      "id": 4238327969,
+      "lat": 29.3176037,
+      "lon": -82.2105828
+    },
+    {
+      "type": "node",
+      "id": 4238327970,
+      "lat": 29.3176048,
+      "lon": -82.210334
+    },
+    {
+      "type": "node",
+      "id": 4238327973,
+      "lat": 29.3184437,
+      "lon": -82.2108444
+    },
+    {
+      "type": "node",
+      "id": 4238327974,
+      "lat": 29.3184548,
+      "lon": -82.2106019
+    },
+    {
+      "type": "node",
+      "id": 4238327982,
+      "lat": 29.3214939,
+      "lon": -82.211834
+    },
+    {
+      "type": "node",
+      "id": 4238327983,
+      "lat": 29.3215084,
+      "lon": -82.2115922
+    },
+    {
+      "type": "node",
+      "id": 98879736,
+      "lat": 29.3300642,
+      "lon": -82.2143233
+    },
+    {
+      "type": "node",
+      "id": 447888644,
+      "lat": 29.3301116,
+      "lon": -82.2140928
+    },
+    {
+      "type": "node",
+      "id": 4238327984,
+      "lat": 29.3244767,
+      "lon": -82.2128
+    },
+    {
+      "type": "node",
+      "id": 4238327985,
+      "lat": 29.3245045,
+      "lon": -82.2125594
+    },
+    {
+      "type": "node",
+      "id": 4238327986,
+      "lat": 29.3252639,
+      "lon": -82.2130405
+    },
+    {
+      "type": "node",
+      "id": 4238327987,
+      "lat": 29.3252995,
+      "lon": -82.212807
+    },
+    {
+      "type": "node",
+      "id": 4238327988,
+      "lat": 29.3260565,
+      "lon": -82.2132715
+    },
+    {
+      "type": "node",
+      "id": 4238327989,
+      "lat": 29.3260988,
+      "lon": -82.2130405
+    },
+    {
+      "type": "node",
+      "id": 4238327990,
+      "lat": 29.3268526,
+      "lon": -82.2134871
+    },
+    {
+      "type": "node",
+      "id": 4238327991,
+      "lat": 29.3269026,
+      "lon": -82.2132562
+    },
+    {
+      "type": "node",
+      "id": 4238327998,
+      "lat": 29.333364,
+      "lon": -82.2151894
+    },
+    {
+      "type": "node",
+      "id": 4238327999,
+      "lat": 29.3333873,
+      "lon": -82.2149508
+    },
+    {
+      "type": "node",
+      "id": 4238328000,
+      "lat": 29.3344636,
+      "lon": -82.2154982
+    },
+    {
+      "type": "node",
+      "id": 4238328001,
+      "lat": 29.3344814,
+      "lon": -82.2152583
+    },
+    {
+      "type": "node",
+      "id": 4238327996,
+      "lat": 29.3322638,
+      "lon": -82.2148959
+    },
+    {
+      "type": "node",
+      "id": 4238327997,
+      "lat": 29.332291,
+      "lon": -82.2146586
+    },
+    {
+      "type": "node",
+      "id": 4238328002,
+      "lat": 29.3388321,
+      "lon": -82.2165312
+    },
+    {
+      "type": "node",
+      "id": 4238328003,
+      "lat": 29.3388505,
+      "lon": -82.2167813
+    },
+    {
+      "type": "node",
+      "id": 98879738,
+      "lat": 29.3480825,
+      "lon": -82.2194866
+    },
+    {
+      "type": "node",
+      "id": 447888645,
+      "lat": 29.3496053,
+      "lon": -82.2196442
+    },
+    {
+      "type": "node",
+      "id": 618090102,
+      "lat": 29.3479578,
+      "lon": -82.219207
+    },
+    {
+      "type": "node",
+      "id": 618090111,
+      "lat": 29.3475148,
+      "lon": -82.2190778
+    },
+    {
+      "type": "node",
+      "id": 618090116,
+      "lat": 29.3476245,
+      "lon": -82.2193491
+    },
+    {
+      "type": "node",
+      "id": 4238328004,
+      "lat": 29.3487776,
+      "lon": -82.2194381
+    },
+    {
+      "type": "node",
+      "id": 4238328005,
+      "lat": 29.3502013,
+      "lon": -82.2197763
+    },
+    {
+      "type": "node",
+      "id": 98879744,
+      "lat": 29.3567217,
+      "lon": -82.2220207
+    },
+    {
+      "type": "node",
+      "id": 4238328010,
+      "lat": 29.3556246,
+      "lon": -82.2216942
+    },
+    {
+      "type": "node",
+      "id": 7928219186,
+      "lat": 29.3561562,
+      "lon": -82.2218524
+    },
+    {
+      "type": "node",
+      "id": 98879747,
+      "lat": 29.3581689,
+      "lon": -82.2225341
+    },
+    {
+      "type": "node",
+      "id": 98879749,
+      "lat": 29.3599878,
+      "lon": -82.2233555
+    },
+    {
+      "type": "node",
+      "id": 447888651,
+      "lat": 29.3581401,
+      "lon": -82.2222371
+    },
+    {
+      "type": "node",
+      "id": 447888652,
+      "lat": 29.3600642,
+      "lon": -82.2231396
+    },
+    {
+      "type": "node",
+      "id": 4238328011,
+      "lat": 29.357125,
+      "lon": -82.2217542
+    },
+    {
+      "type": "node",
+      "id": 4238328012,
+      "lat": 29.3574475,
+      "lon": -82.2222646
+    },
+    {
+      "type": "node",
+      "id": 4238328013,
+      "lat": 29.3590802,
+      "lon": -82.222932
+    },
+    {
+      "type": "node",
+      "id": 4238328015,
+      "lat": 29.3617883,
+      "lon": -82.2242029
+    },
+    {
+      "type": "node",
+      "id": 4238328016,
+      "lat": 29.3618595,
+      "lon": -82.2239809
+    },
+    {
+      "type": "node",
+      "id": 98879740,
+      "lat": 29.3530962,
+      "lon": -82.2209539
+    },
+    {
+      "type": "node",
+      "id": 98879742,
+      "lat": 29.3545407,
+      "lon": -82.221374
+    },
+    {
+      "type": "node",
+      "id": 447888646,
+      "lat": 29.3508034,
+      "lon": -82.2198888
+    },
+    {
+      "type": "node",
+      "id": 447888647,
+      "lat": 29.3522514,
+      "lon": -82.2201603
+    },
+    {
+      "type": "node",
+      "id": 447888648,
+      "lat": 29.3536729,
+      "lon": -82.2204411
+    },
+    {
+      "type": "node",
+      "id": 447888649,
+      "lat": 29.3547681,
+      "lon": -82.220759
+    },
+    {
+      "type": "node",
+      "id": 447888650,
+      "lat": 29.3561033,
+      "lon": -82.2212838
+    },
+    {
+      "type": "node",
+      "id": 4238328006,
+      "lat": 29.3529653,
+      "lon": -82.2202905
+    },
+    {
+      "type": "node",
+      "id": 4238328007,
+      "lat": 29.3538262,
+      "lon": -82.2211659
+    },
+    {
+      "type": "node",
+      "id": 4238328008,
+      "lat": 29.354221,
+      "lon": -82.2205917
+    },
+    {
+      "type": "node",
+      "id": 4238328009,
+      "lat": 29.3554422,
+      "lon": -82.2210038
+    },
+    {
+      "type": "node",
+      "id": 7928219187,
+      "lat": 29.3563019,
+      "lon": -82.2213752
+    },
+    {
+      "type": "node",
+      "id": 98879759,
+      "lat": 29.367239,
+      "lon": -82.2267699
+    },
+    {
+      "type": "node",
+      "id": 447888653,
+      "lat": 29.3672503,
+      "lon": -82.2265172
+    },
+    {
+      "type": "node",
+      "id": 4238099926,
+      "lat": 29.3636047,
+      "lon": -82.2250566
+    },
+    {
+      "type": "node",
+      "id": 4238099927,
+      "lat": 29.3636576,
+      "lon": -82.2248254
+    },
+    {
+      "type": "node",
+      "id": 4238099928,
+      "lat": 29.3679506,
+      "lon": -82.2271054
+    },
+    {
+      "type": "node",
+      "id": 4238099929,
+      "lat": 29.368305,
+      "lon": -82.2270141
+    },
+    {
+      "type": "node",
+      "id": 4238099930,
+      "lat": 29.3686588,
+      "lon": -82.2274369
+    },
+    {
+      "type": "node",
+      "id": 4238099931,
+      "lat": 29.369369,
+      "lon": -82.2275145
+    },
+    {
+      "type": "node",
+      "id": 4238099932,
+      "lat": 29.3700771,
+      "lon": -82.2281032
+    },
+    {
+      "type": "node",
+      "id": 4238099933,
+      "lat": 29.3714828,
+      "lon": -82.228509
+    },
+    {
+      "type": "node",
+      "id": 4238099934,
+      "lat": 29.3729273,
+      "lon": -82.2294445
+    },
+    {
+      "type": "node",
+      "id": 4238099935,
+      "lat": 29.3757125,
+      "lon": -82.2304948
+    },
+    {
+      "type": "node",
+      "id": 98879792,
+      "lat": 29.4254721,
+      "lon": -82.2612278
+    },
+    {
+      "type": "node",
+      "id": 98879795,
+      "lat": 29.4264959,
+      "lon": -82.2617537
+    },
+    {
+      "type": "node",
+      "id": 98879798,
+      "lat": 29.4272904,
+      "lon": -82.2621099
+    },
+    {
+      "type": "node",
+      "id": 98879799,
+      "lat": 29.4286745,
+      "lon": -82.2626118
+    },
+    {
+      "type": "node",
+      "id": 447888665,
+      "lat": 29.4254661,
+      "lon": -82.260962
+    },
+    {
+      "type": "node",
+      "id": 447888666,
+      "lat": 29.4264277,
+      "lon": -82.2614638
+    },
+    {
+      "type": "node",
+      "id": 447888667,
+      "lat": 29.4272628,
+      "lon": -82.2618409
+    },
+    {
+      "type": "node",
+      "id": 447888668,
+      "lat": 29.4286816,
+      "lon": -82.2623675
+    },
+    {
+      "type": "node",
+      "id": 4238108513,
+      "lat": 29.4249008,
+      "lon": -82.2608983
+    },
+    {
+      "type": "node",
+      "id": 4238108515,
+      "lat": 29.4259435,
+      "lon": -82.261224
+    },
+    {
+      "type": "node",
+      "id": 4238108516,
+      "lat": 29.4259811,
+      "lon": -82.2615007
+    },
+    {
+      "type": "node",
+      "id": 4238108517,
+      "lat": 29.4279793,
+      "lon": -82.2623741
+    },
+    {
+      "type": "node",
+      "id": 4238108518,
+      "lat": 29.427981,
+      "lon": -82.2621307
+    },
+    {
+      "type": "node",
+      "id": 98879770,
+      "lat": 29.3900276,
+      "lon": -82.2374954
+    },
+    {
+      "type": "node",
+      "id": 4238099937,
+      "lat": 29.3918092,
+      "lon": -82.2383311
+    },
+    {
+      "type": "node",
+      "id": 4238099938,
+      "lat": 29.3935901,
+      "lon": -82.2391719
+    },
+    {
+      "type": "node",
+      "id": 98879774,
+      "lat": 29.3981191,
+      "lon": -82.2413851
+    },
+    {
+      "type": "node",
+      "id": 98879775,
+      "lat": 29.3989716,
+      "lon": -82.2419388
+    },
+    {
+      "type": "node",
+      "id": 98879776,
+      "lat": 29.4008113,
+      "lon": -82.2432816
+    },
+    {
+      "type": "node",
+      "id": 447888657,
+      "lat": 29.3981714,
+      "lon": -82.2411405
+    },
+    {
+      "type": "node",
+      "id": 447888658,
+      "lat": 29.3990702,
+      "lon": -82.2417231
+    },
+    {
+      "type": "node",
+      "id": 4238099941,
+      "lat": 29.3985464,
+      "lon": -82.2416525
+    },
+    {
+      "type": "node",
+      "id": 4238099942,
+      "lat": 29.398619,
+      "lon": -82.2414204
+    },
+    {
+      "type": "node",
+      "id": 4238099943,
+      "lat": 29.4001349,
+      "lon": -82.2424982
+    },
+    {
+      "type": "node",
+      "id": 4238099944,
+      "lat": 29.4012164,
+      "lon": -82.2432951
+    },
+    {
+      "type": "node",
+      "id": 98879773,
+      "lat": 29.397147,
+      "lon": -82.2408487
+    },
+    {
+      "type": "node",
+      "id": 447888656,
+      "lat": 29.3972061,
+      "lon": -82.240615
+    },
+    {
+      "type": "node",
+      "id": 4238099939,
+      "lat": 29.3976349,
+      "lon": -82.2411051
+    },
+    {
+      "type": "node",
+      "id": 4238099940,
+      "lat": 29.3976934,
+      "lon": -82.2408682
+    },
+    {
+      "type": "node",
+      "id": 4238099936,
+      "lat": 29.3786244,
+      "lon": -82.2321256
+    },
+    {
+      "type": "node",
+      "id": 447888654,
+      "lat": 29.3841795,
+      "lon": -82.2344801
+    },
+    {
+      "type": "node",
+      "id": 98768957,
+      "lat": 29.4084978,
+      "lon": -82.2481615
+    },
+    {
+      "type": "node",
+      "id": 447888680,
+      "lat": 29.4088917,
+      "lon": -82.2495132
+    },
+    {
+      "type": "node",
+      "id": 447888681,
+      "lat": 29.40825,
+      "lon": -82.2491949
+    },
+    {
+      "type": "node",
+      "id": 618091278,
+      "lat": 29.4069837,
+      "lon": -82.2478212
+    },
+    {
+      "type": "node",
+      "id": 4238099960,
+      "lat": 29.4064298,
+      "lon": -82.2479052
+    },
+    {
+      "type": "node",
+      "id": 4238099961,
+      "lat": 29.4064838,
+      "lon": -82.2479985
+    },
+    {
+      "type": "node",
+      "id": 4238099962,
+      "lat": 29.4065069,
+      "lon": -82.2480858
+    },
+    {
+      "type": "node",
+      "id": 4238099963,
+      "lat": 29.4065163,
+      "lon": -82.2481889
+    },
+    {
+      "type": "node",
+      "id": 4238099964,
+      "lat": 29.4065228,
+      "lon": -82.2483159
+    },
+    {
+      "type": "node",
+      "id": 4238099966,
+      "lat": 29.4065451,
+      "lon": -82.2482689
+    },
+    {
+      "type": "node",
+      "id": 4238099967,
+      "lat": 29.4065513,
+      "lon": -82.2479632
+    },
+    {
+      "type": "node",
+      "id": 4238099968,
+      "lat": 29.4066197,
+      "lon": -82.2482301
+    },
+    {
+      "type": "node",
+      "id": 4238099969,
+      "lat": 29.4066317,
+      "lon": -82.2479681
+    },
+    {
+      "type": "node",
+      "id": 4238099970,
+      "lat": 29.4066881,
+      "lon": -82.2482026
+    },
+    {
+      "type": "node",
+      "id": 4238099971,
+      "lat": 29.4067037,
+      "lon": -82.247963
+    },
+    {
+      "type": "node",
+      "id": 4238099972,
+      "lat": 29.4067154,
+      "lon": -82.2480397
+    },
+    {
+      "type": "node",
+      "id": 4238099973,
+      "lat": 29.4067193,
+      "lon": -82.247936
+    },
+    {
+      "type": "node",
+      "id": 4238099974,
+      "lat": 29.4067529,
+      "lon": -82.2481142
+    },
+    {
+      "type": "node",
+      "id": 4238099975,
+      "lat": 29.4067582,
+      "lon": -82.2481928
+    },
+    {
+      "type": "node",
+      "id": 4238099976,
+      "lat": 29.4068308,
+      "lon": -82.2481938
+    },
+    {
+      "type": "node",
+      "id": 4238108494,
+      "lat": 29.4074497,
+      "lon": -82.2486491
+    },
+    {
+      "type": "node",
+      "id": 4238108495,
+      "lat": 29.4078968,
+      "lon": -82.2489699
+    },
+    {
+      "type": "node",
+      "id": 4238108496,
+      "lat": 29.408437,
+      "lon": -82.2492918
+    },
+    {
+      "type": "node",
+      "id": 4238108497,
+      "lat": 29.40922,
+      "lon": -82.2496706
+    },
+    {
+      "type": "node",
+      "id": 98879786,
+      "lat": 29.4130053,
+      "lon": -82.252246
+    },
+    {
+      "type": "node",
+      "id": 447888585,
+      "lat": 29.4100838,
+      "lon": -82.2501233
+    },
+    {
+      "type": "node",
+      "id": 447888661,
+      "lat": 29.4101951,
+      "lon": -82.2498781
+    },
+    {
+      "type": "node",
+      "id": 447888662,
+      "lat": 29.4130322,
+      "lon": -82.2519864
+    },
+    {
+      "type": "node",
+      "id": 447888678,
+      "lat": 29.4094025,
+      "lon": -82.2490713
+    },
+    {
+      "type": "node",
+      "id": 447888679,
+      "lat": 29.4095164,
+      "lon": -82.2498261
+    },
+    {
+      "type": "node",
+      "id": 4238108498,
+      "lat": 29.410712,
+      "lon": -82.2505836
+    },
+    {
+      "type": "node",
+      "id": 4238108499,
+      "lat": 29.4108473,
+      "lon": -82.2503531
+    },
+    {
+      "type": "node",
+      "id": 4238108500,
+      "lat": 29.4118569,
+      "lon": -82.2514007
+    },
+    {
+      "type": "node",
+      "id": 4238108501,
+      "lat": 29.4119269,
+      "lon": -82.2511692
+    },
+    {
+      "type": "node",
+      "id": 4238108502,
+      "lat": 29.4141681,
+      "lon": -82.2531062
+    },
+    {
+      "type": "node",
+      "id": 4238108503,
+      "lat": 29.4142032,
+      "lon": -82.2528461
+    },
+    {
+      "type": "node",
+      "id": 4238108504,
+      "lat": 29.4153263,
+      "lon": -82.253953
+    },
+    {
+      "type": "node",
+      "id": 4238108506,
+      "lat": 29.4153793,
+      "lon": -82.2537096
+    },
+    {
+      "type": "node",
+      "id": 98768950,
+      "lat": 29.4036045,
+      "lon": -82.2453599
+    },
+    {
+      "type": "node",
+      "id": 98768951,
+      "lat": 29.40495,
+      "lon": -82.245743
+    },
+    {
+      "type": "node",
+      "id": 98768952,
+      "lat": 29.405609,
+      "lon": -82.2460724
+    },
+    {
+      "type": "node",
+      "id": 98768968,
+      "lat": 29.4053461,
+      "lon": -82.2470947
+    },
+    {
+      "type": "node",
+      "id": 98768970,
+      "lat": 29.4048788,
+      "lon": -82.2466594
+    },
+    {
+      "type": "node",
+      "id": 98768972,
+      "lat": 29.4044637,
+      "lon": -82.2461998
+    },
+    {
+      "type": "node",
+      "id": 447888660,
+      "lat": 29.4033583,
+      "lon": -82.2448715
+    },
+    {
+      "type": "node",
+      "id": 618091257,
+      "lat": 29.407103,
+      "lon": -82.2476232
+    },
+    {
+      "type": "node",
+      "id": 618091268,
+      "lat": 29.4068088,
+      "lon": -82.2474059
+    },
+    {
+      "type": "node",
+      "id": 618091280,
+      "lat": 29.4066925,
+      "lon": -82.2476052
+    },
+    {
+      "type": "node",
+      "id": 4238099945,
+      "lat": 29.4028093,
+      "lon": -82.2447754
+    },
+    {
+      "type": "node",
+      "id": 4238099949,
+      "lat": 29.404114,
+      "lon": -82.245835
+    },
+    {
+      "type": "node",
+      "id": 4238099950,
+      "lat": 29.4041296,
+      "lon": -82.2453079
+    },
+    {
+      "type": "node",
+      "id": 4238099952,
+      "lat": 29.4043382,
+      "lon": -82.2454296
+    },
+    {
+      "type": "node",
+      "id": 4238099954,
+      "lat": 29.404541,
+      "lon": -82.246022
+    },
+    {
+      "type": "node",
+      "id": 4238099955,
+      "lat": 29.4045433,
+      "lon": -82.2455434
+    },
+    {
+      "type": "node",
+      "id": 4238099956,
+      "lat": 29.4046697,
+      "lon": -82.2464317
+    },
+    {
+      "type": "node",
+      "id": 4238099957,
+      "lat": 29.4051092,
+      "lon": -82.2468867
+    },
+    {
+      "type": "node",
+      "id": 4238099958,
+      "lat": 29.4053281,
+      "lon": -82.2459261
+    },
+    {
+      "type": "node",
+      "id": 4238099959,
+      "lat": 29.4059658,
+      "lon": -82.2463029
+    },
+    {
+      "type": "node",
+      "id": 4238099978,
+      "lat": 29.4069797,
+      "lon": -82.2470462
+    },
+    {
+      "type": "node",
+      "id": 4238099979,
+      "lat": 29.4070334,
+      "lon": -82.2470923
+    },
+    {
+      "type": "node",
+      "id": 4238099980,
+      "lat": 29.4070663,
+      "lon": -82.247058
+    },
+    {
+      "type": "node",
+      "id": 4238099981,
+      "lat": 29.4070779,
+      "lon": -82.2471625
+    },
+    {
+      "type": "node",
+      "id": 4238099982,
+      "lat": 29.4071112,
+      "lon": -82.2472711
+    },
+    {
+      "type": "node",
+      "id": 4238099983,
+      "lat": 29.4071176,
+      "lon": -82.2470536
+    },
+    {
+      "type": "node",
+      "id": 4238099984,
+      "lat": 29.4071262,
+      "lon": -82.2472455
+    },
+    {
+      "type": "node",
+      "id": 4238099985,
+      "lat": 29.4072001,
+      "lon": -82.2470256
+    },
+    {
+      "type": "node",
+      "id": 4238099986,
+      "lat": 29.4072412,
+      "lon": -82.2472675
+    },
+    {
+      "type": "node",
+      "id": 4238099987,
+      "lat": 29.4073074,
+      "lon": -82.2469852
+    },
+    {
+      "type": "node",
+      "id": 4238099988,
+      "lat": 29.4073095,
+      "lon": -82.2472891
+    },
+    {
+      "type": "node",
+      "id": 4238108489,
+      "lat": 29.4073454,
+      "lon": -82.247055
+    },
+    {
+      "type": "node",
+      "id": 4238108490,
+      "lat": 29.4073537,
+      "lon": -82.2469212
+    },
+    {
+      "type": "node",
+      "id": 4238108491,
+      "lat": 29.4073557,
+      "lon": -82.247162
+    },
+    {
+      "type": "node",
+      "id": 4238108492,
+      "lat": 29.4073779,
+      "lon": -82.2472474
+    },
+    {
+      "type": "node",
+      "id": 4238108493,
+      "lat": 29.4074054,
+      "lon": -82.2473485
+    },
+    {
+      "type": "node",
+      "id": 98879789,
+      "lat": 29.4222944,
+      "lon": -82.2590794
+    },
+    {
+      "type": "node",
+      "id": 4238108507,
+      "lat": 29.4176546,
+      "lon": -82.2556653
+    },
+    {
+      "type": "node",
+      "id": 4238108508,
+      "lat": 29.4177264,
+      "lon": -82.2554396
+    },
+    {
+      "type": "node",
+      "id": 98879791,
+      "lat": 29.4243371,
+      "lon": -82.2605454
+    },
+    {
+      "type": "node",
+      "id": 447888663,
+      "lat": 29.4224052,
+      "lon": -82.2588766
+    },
+    {
+      "type": "node",
+      "id": 447888664,
+      "lat": 29.4243567,
+      "lon": -82.2602837
+    },
+    {
+      "type": "node",
+      "id": 4238108509,
+      "lat": 29.4227846,
+      "lon": -82.2594421
+    },
+    {
+      "type": "node",
+      "id": 4238108510,
+      "lat": 29.4228812,
+      "lon": -82.2592282
+    },
+    {
+      "type": "node",
+      "id": 4238108511,
+      "lat": 29.4232987,
+      "lon": -82.259815
+    },
+    {
+      "type": "node",
+      "id": 4238108512,
+      "lat": 29.423379,
+      "lon": -82.2595952
+    },
+    {
+      "type": "node",
+      "id": 4238108514,
+      "lat": 29.4249102,
+      "lon": -82.2606343
+    },
+    {
+      "type": "node",
+      "id": 98879800,
+      "lat": 29.4292564,
+      "lon": -82.2627827
+    },
+    {
+      "type": "node",
+      "id": 447888669,
+      "lat": 29.429261,
+      "lon": -82.2625408
+    },
+    {
+      "type": "node",
+      "id": 4236513742,
+      "lat": 29.4313522,
+      "lon": -82.263087
+    },
+    {
+      "type": "node",
+      "id": 4236513743,
+      "lat": 29.4334459,
+      "lon": -82.2636281
+    },
+    {
+      "type": "node",
+      "id": 4236513744,
+      "lat": 29.4376339,
+      "lon": -82.2647135
+    },
+    {
+      "type": "node",
+      "id": 447888670,
+      "lat": 29.4460108,
+      "lon": -82.2668812
+    },
+    {
+      "type": "node",
+      "id": 4236513750,
+      "lat": 29.4541893,
+      "lon": -82.2689994
+    },
+    {
+      "type": "node",
+      "id": 4236513760,
+      "lat": 29.4677573,
+      "lon": -82.2739946
+    },
+    {
+      "type": "node",
+      "id": 98879806,
+      "lat": 29.4623415,
+      "lon": -82.2713583
+    },
+    {
+      "type": "node",
+      "id": 98879808,
+      "lat": 29.4637831,
+      "lon": -82.2717907
+    },
+    {
+      "type": "node",
+      "id": 98879810,
+      "lat": 29.4651453,
+      "lon": -82.2723773
+    },
+    {
+      "type": "node",
+      "id": 98879811,
+      "lat": 29.4669516,
+      "lon": -82.2734129
+    },
+    {
+      "type": "node",
+      "id": 447888671,
+      "lat": 29.4623666,
+      "lon": -82.2711261
+    },
+    {
+      "type": "node",
+      "id": 447888672,
+      "lat": 29.4637981,
+      "lon": -82.2715503
+    },
+    {
+      "type": "node",
+      "id": 447888673,
+      "lat": 29.4651282,
+      "lon": -82.2720997
+    },
+    {
+      "type": "node",
+      "id": 447888674,
+      "lat": 29.4669815,
+      "lon": -82.2731468
+    },
+    {
+      "type": "node",
+      "id": 4236513751,
+      "lat": 29.4627044,
+      "lon": -82.2714557
+    },
+    {
+      "type": "node",
+      "id": 4236513752,
+      "lat": 29.4630656,
+      "lon": -82.2715628
+    },
+    {
+      "type": "node",
+      "id": 4236513753,
+      "lat": 29.4644665,
+      "lon": -82.2718159
+    },
+    {
+      "type": "node",
+      "id": 4236513754,
+      "lat": 29.4644693,
+      "lon": -82.2720722
+    },
+    {
+      "type": "node",
+      "id": 4236513755,
+      "lat": 29.4656001,
+      "lon": -82.2726077
+    },
+    {
+      "type": "node",
+      "id": 4236513756,
+      "lat": 29.466047,
+      "lon": -82.27286
+    },
+    {
+      "type": "node",
+      "id": 4236513757,
+      "lat": 29.4660684,
+      "lon": -82.2726006
+    },
+    {
+      "type": "node",
+      "id": 4236513758,
+      "lat": 29.4673574,
+      "lon": -82.2736931
+    },
+    {
+      "type": "node",
+      "id": 4236513759,
+      "lat": 29.4674016,
+      "lon": -82.2734472
+    },
+    {
+      "type": "node",
+      "id": 4236513761,
+      "lat": 29.4678174,
+      "lon": -82.2737582
+    },
+    {
+      "type": "node",
+      "id": 98879813,
+      "lat": 29.4685379,
+      "lon": -82.2746238
+    },
+    {
+      "type": "node",
+      "id": 447888675,
+      "lat": 29.4686356,
+      "lon": -82.2744088
+    },
+    {
+      "type": "node",
+      "id": 4236513762,
+      "lat": 29.4696175,
+      "lon": -82.2752109
+    },
+    {
+      "type": "node",
+      "id": 4236513763,
+      "lat": 29.4704879,
+      "lon": -82.2762113
+    },
+    {
+      "type": "node",
+      "id": 4236513764,
+      "lat": 29.4705991,
+      "lon": -82.2760122
+    },
+    {
+      "type": "node",
+      "id": 4236513765,
+      "lat": 29.4724585,
+      "lon": -82.2778196
+    },
+    {
+      "type": "node",
+      "id": 4236513766,
+      "lat": 29.4725621,
+      "lon": -82.2776125
+    },
+    {
+      "type": "node",
+      "id": 98879820,
+      "lat": 29.4763756,
+      "lon": -82.2810139
+    },
+    {
+      "type": "node",
+      "id": 98879826,
+      "lat": 29.4807463,
+      "lon": -82.2845796
+    },
+    {
+      "type": "node",
+      "id": 447888676,
+      "lat": 29.476494,
+      "lon": -82.2808111
+    },
+    {
+      "type": "node",
+      "id": 447888677,
+      "lat": 29.480816,
+      "lon": -82.28434
+    },
+    {
+      "type": "node",
+      "id": 4236513767,
+      "lat": 29.4774647,
+      "lon": -82.2819024
+    },
+    {
+      "type": "node",
+      "id": 4236513768,
+      "lat": 29.4775732,
+      "lon": -82.2816937
+    },
+    {
+      "type": "node",
+      "id": 4236513769,
+      "lat": 29.4785567,
+      "lon": -82.2827925
+    },
+    {
+      "type": "node",
+      "id": 4236513770,
+      "lat": 29.4786541,
+      "lon": -82.2825767
+    },
+    {
+      "type": "node",
+      "id": 84846757,
+      "lat": 29.526898,
+      "lon": -82.313413
+    },
+    {
+      "type": "node",
+      "id": 84847361,
+      "lat": 29.527112,
+      "lon": -82.313296
+    },
+    {
+      "type": "node",
+      "id": 84846769,
+      "lat": 29.533652,
+      "lon": -82.320773
+    },
+    {
+      "type": "node",
+      "id": 84846760,
+      "lat": 29.527769,
+      "lon": -82.314144
+    },
+    {
+      "type": "node",
+      "id": 84846762,
+      "lat": 29.528637,
+      "lon": -82.314926
+    },
+    {
+      "type": "node",
+      "id": 84846763,
+      "lat": 29.529744,
+      "lon": -82.316021
+    },
+    {
+      "type": "node",
+      "id": 84846767,
+      "lat": 29.530526,
+      "lon": -82.316853
+    },
+    {
+      "type": "node",
+      "id": 84846768,
+      "lat": 29.531714,
+      "lon": -82.318235
+    },
+    {
+      "type": "node",
+      "id": 84847354,
+      "lat": 29.532236,
+      "lon": -82.318544
+    },
+    {
+      "type": "node",
+      "id": 84847355,
+      "lat": 29.530874,
+      "lon": -82.316911
+    },
+    {
+      "type": "node",
+      "id": 84847357,
+      "lat": 29.529537,
+      "lon": -82.315494
+    },
+    {
+      "type": "node",
+      "id": 84847358,
+      "lat": 29.528733,
+      "lon": -82.314714
+    },
+    {
+      "type": "node",
+      "id": 84847360,
+      "lat": 29.527914,
+      "lon": -82.313971
+    },
+    {
+      "type": "node",
+      "id": 84846785,
+      "lat": 29.552181,
+      "lon": -82.340359
+    },
+    {
+      "type": "node",
+      "id": 84847338,
+      "lat": 29.552842,
+      "lon": -82.340238
+    },
+    {
+      "type": "node",
+      "id": 84846787,
+      "lat": 29.553681,
+      "lon": -82.34159
+    },
+    {
+      "type": "node",
+      "id": 84846788,
+      "lat": 29.554543,
+      "lon": -82.342233
+    },
+    {
+      "type": "node",
+      "id": 84846789,
+      "lat": 29.555615,
+      "lon": -82.342971
+    },
+    {
+      "type": "node",
+      "id": 84846791,
+      "lat": 29.556805,
+      "lon": -82.343712
+    },
+    {
+      "type": "node",
+      "id": 84846792,
+      "lat": 29.558081,
+      "lon": -82.344445
+    },
+    {
+      "type": "node",
+      "id": 84847333,
+      "lat": 29.558784,
+      "lon": -82.344578
+    },
+    {
+      "type": "node",
+      "id": 84847334,
+      "lat": 29.5570153,
+      "lon": -82.343491
+    },
+    {
+      "type": "node",
+      "id": 84847335,
+      "lat": 29.556071,
+      "lon": -82.342855
+    },
+    {
+      "type": "node",
+      "id": 84847336,
+      "lat": 29.555148,
+      "lon": -82.342169
+    },
+    {
+      "type": "node",
+      "id": 84847337,
+      "lat": 29.554229,
+      "lon": -82.341436
+    },
+    {
+      "type": "node",
+      "id": 84846772,
+      "lat": 29.538086,
+      "lon": -82.32665
+    },
+    {
+      "type": "node",
+      "id": 84846774,
+      "lat": 29.539311,
+      "lon": -82.328183
+    },
+    {
+      "type": "node",
+      "id": 84846775,
+      "lat": 29.540239,
+      "lon": -82.329422
+    },
+    {
+      "type": "node",
+      "id": 84847346,
+      "lat": 29.53992,
+      "lon": -82.328577
+    },
+    {
+      "type": "node",
+      "id": 84847348,
+      "lat": 29.539075,
+      "lon": -82.327567
+    },
+    {
+      "type": "node",
+      "id": 84847349,
+      "lat": 29.538355,
+      "lon": -82.326635
+    },
+    {
+      "type": "node",
+      "id": 84846780,
+      "lat": 29.543931,
+      "lon": -82.333196
+    },
+    {
+      "type": "node",
+      "id": 84846782,
+      "lat": 29.545454,
+      "lon": -82.334525
+    },
+    {
+      "type": "node",
+      "id": 84847339,
+      "lat": 29.545004,
+      "lon": -82.333429
+    },
+    {
+      "type": "node",
+      "id": 84846776,
+      "lat": 29.541406,
+      "lon": -82.330744
+    },
+    {
+      "type": "node",
+      "id": 84846778,
+      "lat": 29.542717,
+      "lon": -82.332082
+    },
+    {
+      "type": "node",
+      "id": 84847341,
+      "lat": 29.543921,
+      "lon": -82.332498
+    },
+    {
+      "type": "node",
+      "id": 84847343,
+      "lat": 29.542355,
+      "lon": -82.331108
+    },
+    {
+      "type": "node",
+      "id": 84847344,
+      "lat": 29.541111,
+      "lon": -82.329877
+    },
+    {
+      "type": "node",
+      "id": 84846770,
+      "lat": 29.535398,
+      "lon": -82.323082
+    },
+    {
+      "type": "node",
+      "id": 84846771,
+      "lat": 29.536422,
+      "lon": -82.324446
+    },
+    {
+      "type": "node",
+      "id": 84847351,
+      "lat": 29.536674,
+      "lon": -82.324411
+    },
+    {
+      "type": "node",
+      "id": 84847352,
+      "lat": 29.534108,
+      "lon": -82.321002
+    },
+    {
+      "type": "node",
+      "id": 84846799,
+      "lat": 29.572903,
+      "lon": -82.352825
+    },
+    {
+      "type": "node",
+      "id": 84847329,
+      "lat": 29.561645,
+      "lon": -82.346198
+    },
+    {
+      "type": "node",
+      "id": 84847332,
+      "lat": 29.560043,
+      "lon": -82.345294
+    },
+    {
+      "type": "node",
+      "id": 84846798,
+      "lat": 29.567253,
+      "lon": -82.349641
+    },
+    {
+      "type": "node",
+      "id": 84847327,
+      "lat": 29.567369,
+      "lon": -82.349442
+    },
+    {
+      "type": "node",
+      "id": 84846801,
+      "lat": 29.57865,
+      "lon": -82.356075
+    },
+    {
+      "type": "node",
+      "id": 84847325,
+      "lat": 29.578463,
+      "lon": -82.355707
+    },
+    {
+      "type": "node",
+      "id": 84847326,
+      "lat": 29.573159,
+      "lon": -82.352708
+    },
+    {
+      "type": "node",
+      "id": 4072649814,
+      "lat": 29.5731613,
+      "lon": -82.3529711
+    },
+    {
+      "type": "node",
+      "id": 4072649819,
+      "lat": 29.5732606,
+      "lon": -82.3527655
+    },
+    {
+      "type": "node",
+      "id": 84846804,
+      "lat": 29.584708,
+      "lon": -82.359512
+    },
+    {
+      "type": "node",
+      "id": 84847322,
+      "lat": 29.584642,
+      "lon": -82.359212
+    },
+    {
+      "type": "node",
+      "id": 84846803,
+      "lat": 29.581768,
+      "lon": -82.357847
+    },
+    {
+      "type": "node",
+      "id": 84847323,
+      "lat": 29.580969,
+      "lon": -82.357134
+    },
+    {
+      "type": "node",
+      "id": 84846729,
+      "lat": 29.4868531,
+      "lon": -82.2895211
+    },
+    {
+      "type": "node",
+      "id": 84846730,
+      "lat": 29.4876028,
+      "lon": -82.2900891
+    },
+    {
+      "type": "node",
+      "id": 84847388,
+      "lat": 29.487729,
+      "lon": -82.2899
+    },
+    {
+      "type": "node",
+      "id": 84847390,
+      "lat": 29.486883,
+      "lon": -82.289267
+    },
+    {
+      "type": "node",
+      "id": 84847394,
+      "lat": 29.4843345,
+      "lon": -82.287208
+    },
+    {
+      "type": "node",
+      "id": 98879828,
+      "lat": 29.484317,
+      "lon": -82.2874865
+    },
+    {
+      "type": "node",
+      "id": 4236513776,
+      "lat": 29.4855814,
+      "lon": -82.2885185
+    },
+    {
+      "type": "node",
+      "id": 4236513777,
+      "lat": 29.4856042,
+      "lon": -82.2882424
+    },
+    {
+      "type": "node",
+      "id": 84718259,
+      "lat": 29.493996,
+      "lon": -82.293666
+    },
+    {
+      "type": "node",
+      "id": 84718261,
+      "lat": 29.494273,
+      "lon": -82.293872
+    },
+    {
+      "type": "node",
+      "id": 84720381,
+      "lat": 29.493902,
+      "lon": -82.29337
+    },
+    {
+      "type": "node",
+      "id": 84846732,
+      "lat": 29.488308,
+      "lon": -82.290589
+    },
+    {
+      "type": "node",
+      "id": 84846733,
+      "lat": 29.4889291,
+      "lon": -82.2909953
+    },
+    {
+      "type": "node",
+      "id": 84846734,
+      "lat": 29.4898014,
+      "lon": -82.2915451
+    },
+    {
+      "type": "node",
+      "id": 84846735,
+      "lat": 29.4907495,
+      "lon": -82.2920785
+    },
+    {
+      "type": "node",
+      "id": 84846736,
+      "lat": 29.4915698,
+      "lon": -82.2925287
+    },
+    {
+      "type": "node",
+      "id": 84846737,
+      "lat": 29.492458,
+      "lon": -82.292975
+    },
+    {
+      "type": "node",
+      "id": 84846739,
+      "lat": 29.492887,
+      "lon": -82.293176
+    },
+    {
+      "type": "node",
+      "id": 84847377,
+      "lat": 29.493066,
+      "lon": -82.293002
+    },
+    {
+      "type": "node",
+      "id": 84847378,
+      "lat": 29.492456,
+      "lon": -82.292719
+    },
+    {
+      "type": "node",
+      "id": 84847380,
+      "lat": 29.491822,
+      "lon": -82.2924
+    },
+    {
+      "type": "node",
+      "id": 84847381,
+      "lat": 29.491107,
+      "lon": -82.292032
+    },
+    {
+      "type": "node",
+      "id": 84847383,
+      "lat": 29.490549,
+      "lon": -82.291718
+    },
+    {
+      "type": "node",
+      "id": 84847384,
+      "lat": 29.489738,
+      "lon": -82.291242
+    },
+    {
+      "type": "node",
+      "id": 84847386,
+      "lat": 29.488783,
+      "lon": -82.290633
+    },
+    {
+      "type": "node",
+      "id": 4236513782,
+      "lat": 29.4933998,
+      "lon": -82.2934112
+    },
+    {
+      "type": "node",
+      "id": 84718262,
+      "lat": 29.494619,
+      "lon": -82.294071
+    },
+    {
+      "type": "node",
+      "id": 84718264,
+      "lat": 29.495208,
+      "lon": -82.29446
+    },
+    {
+      "type": "node",
+      "id": 84718265,
+      "lat": 29.495795,
+      "lon": -82.294845
+    },
+    {
+      "type": "node",
+      "id": 84718266,
+      "lat": 29.496561,
+      "lon": -82.295201
+    },
+    {
+      "type": "node",
+      "id": 84718268,
+      "lat": 29.4968,
+      "lon": -82.295306
+    },
+    {
+      "type": "node",
+      "id": 84718270,
+      "lat": 29.497517,
+      "lon": -82.295609
+    },
+    {
+      "type": "node",
+      "id": 84718272,
+      "lat": 29.4986627,
+      "lon": -82.2961056
+    },
+    {
+      "type": "node",
+      "id": 84718274,
+      "lat": 29.498949,
+      "lon": -82.296229
+    },
+    {
+      "type": "node",
+      "id": 84718276,
+      "lat": 29.4991942,
+      "lon": -82.2963217
+    },
+    {
+      "type": "node",
+      "id": 84718277,
+      "lat": 29.499433,
+      "lon": -82.2964
+    },
+    {
+      "type": "node",
+      "id": 84718279,
+      "lat": 29.4999383,
+      "lon": -82.2965143
+    },
+    {
+      "type": "node",
+      "id": 84718281,
+      "lat": 29.500384,
+      "lon": -82.296614
+    },
+    {
+      "type": "node",
+      "id": 84720383,
+      "lat": 29.494804,
+      "lon": -82.293596
+    },
+    {
+      "type": "node",
+      "id": 84720384,
+      "lat": 29.495453,
+      "lon": -82.293745
+    },
+    {
+      "type": "node",
+      "id": 84720386,
+      "lat": 29.49585,
+      "lon": -82.29385
+    },
+    {
+      "type": "node",
+      "id": 84720388,
+      "lat": 29.496822,
+      "lon": -82.294246
+    },
+    {
+      "type": "node",
+      "id": 84720390,
+      "lat": 29.497118,
+      "lon": -82.294357
+    },
+    {
+      "type": "node",
+      "id": 84720392,
+      "lat": 29.497685,
+      "lon": -82.29462
+    },
+    {
+      "type": "node",
+      "id": 84720394,
+      "lat": 29.498388,
+      "lon": -82.29493
+    },
+    {
+      "type": "node",
+      "id": 84720396,
+      "lat": 29.499245,
+      "lon": -82.29532
+    },
+    {
+      "type": "node",
+      "id": 84720398,
+      "lat": 29.499677,
+      "lon": -82.295563
+    },
+    {
+      "type": "node",
+      "id": 84720399,
+      "lat": 29.500063,
+      "lon": -82.295819
+    },
+    {
+      "type": "node",
+      "id": 618095462,
+      "lat": 29.497197,
+      "lon": -82.2947927
+    },
+    {
+      "type": "node",
+      "id": 618095532,
+      "lat": 29.4968185,
+      "lon": -82.2946246
+    },
+    {
+      "type": "node",
+      "id": 618095559,
+      "lat": 29.4971195,
+      "lon": -82.2950189
+    },
+    {
+      "type": "node",
+      "id": 618095664,
+      "lat": 29.4967455,
+      "lon": -82.2948465
+    },
+    {
+      "type": "node",
+      "id": 4072649415,
+      "lat": 29.4968848,
+      "lon": -82.2953325
+    },
+    {
+      "type": "node",
+      "id": 84718284,
+      "lat": 29.501176,
+      "lon": -82.296811
+    },
+    {
+      "type": "node",
+      "id": 84720400,
+      "lat": 29.501215,
+      "lon": -82.296568
+    },
+    {
+      "type": "node",
+      "id": 84846740,
+      "lat": 29.50427,
+      "lon": -82.29816
+    },
+    {
+      "type": "node",
+      "id": 84846741,
+      "lat": 29.506323,
+      "lon": -82.299105
+    },
+    {
+      "type": "node",
+      "id": 84847375,
+      "lat": 29.505744,
+      "lon": -82.298551
+    },
+    {
+      "type": "node",
+      "id": 4072649431,
+      "lat": 29.5019231,
+      "lon": -82.296878
+    },
+    {
+      "type": "node",
+      "id": 4236513771,
+      "lat": 29.4816357,
+      "lon": -82.2853092
+    },
+    {
+      "type": "node",
+      "id": 4236513772,
+      "lat": 29.4816937,
+      "lon": -82.2850585
+    },
+    {
+      "type": "node",
+      "id": 4236513773,
+      "lat": 29.4825184,
+      "lon": -82.2860217
+    },
+    {
+      "type": "node",
+      "id": 4236513774,
+      "lat": 29.4825723,
+      "lon": -82.2857725
+    },
+    {
+      "type": "node",
+      "id": 84846744,
+      "lat": 29.5085595,
+      "lon": -82.3002374
+    },
+    {
+      "type": "node",
+      "id": 84846748,
+      "lat": 29.510163,
+      "lon": -82.301142
+    },
+    {
+      "type": "node",
+      "id": 84846750,
+      "lat": 29.511935,
+      "lon": -82.302209
+    },
+    {
+      "type": "node",
+      "id": 84846751,
+      "lat": 29.514016,
+      "lon": -82.303559
+    },
+    {
+      "type": "node",
+      "id": 84847366,
+      "lat": 29.512824,
+      "lon": -82.302252
+    },
+    {
+      "type": "node",
+      "id": 84847367,
+      "lat": 29.511401,
+      "lon": -82.301334
+    },
+    {
+      "type": "node",
+      "id": 84847369,
+      "lat": 29.510366,
+      "lon": -82.300725
+    },
+    {
+      "type": "node",
+      "id": 84847371,
+      "lat": 29.509385,
+      "lon": -82.3002
+    },
+    {
+      "type": "node",
+      "id": 84846754,
+      "lat": 29.51608,
+      "lon": -82.305027
+    },
+    {
+      "type": "node",
+      "id": 84846755,
+      "lat": 29.517556,
+      "lon": -82.306153
+    },
+    {
+      "type": "node",
+      "id": 84847364,
+      "lat": 29.51768,
+      "lon": -82.30596
+    },
+    {
+      "type": "node",
+      "id": 84847365,
+      "lat": 29.514728,
+      "lon": -82.303671
+    },
+    {
+      "type": "node",
+      "id": 84847373,
+      "lat": 29.508782,
+      "lon": -82.299903
+    },
+    {
+      "type": "node",
+      "id": 84752359,
+      "lat": 29.657631,
+      "lon": -82.418941
+    },
+    {
+      "type": "node",
+      "id": 84752362,
+      "lat": 29.657669,
+      "lon": -82.419058
+    },
+    {
+      "type": "node",
+      "id": 84752364,
+      "lat": 29.657718,
+      "lon": -82.419169
+    },
+    {
+      "type": "node",
+      "id": 84752365,
+      "lat": 29.657778,
+      "lon": -82.419272
+    },
+    {
+      "type": "node",
+      "id": 84752367,
+      "lat": 29.657901,
+      "lon": -82.419432
+    },
+    {
+      "type": "node",
+      "id": 84752370,
+      "lat": 29.657965,
+      "lon": -82.41949
+    },
+    {
+      "type": "node",
+      "id": 84752372,
+      "lat": 29.658144,
+      "lon": -82.419602
+    },
+    {
+      "type": "node",
+      "id": 84773852,
+      "lat": 29.658256,
+      "lon": -82.41861
+    },
+    {
+      "type": "node",
+      "id": 84773855,
+      "lat": 29.658181,
+      "lon": -82.418662
+    },
+    {
+      "type": "node",
+      "id": 84773859,
+      "lat": 29.658112,
+      "lon": -82.418726
+    },
+    {
+      "type": "node",
+      "id": 84773860,
+      "lat": 29.658053,
+      "lon": -82.418801
+    },
+    {
+      "type": "node",
+      "id": 84773862,
+      "lat": 29.658001,
+      "lon": -82.4189
+    },
+    {
+      "type": "node",
+      "id": 84773864,
+      "lat": 29.657983,
+      "lon": -82.419014
+    },
+    {
+      "type": "node",
+      "id": 84773865,
+      "lat": 29.657984,
+      "lon": -82.419203
+    },
+    {
+      "type": "node",
+      "id": 84773866,
+      "lat": 29.65805,
+      "lon": -82.419378
+    },
+    {
+      "type": "node",
+      "id": 84773867,
+      "lat": 29.658171,
+      "lon": -82.419519
+    },
+    {
+      "type": "node",
+      "id": 84773868,
+      "lat": 29.658276,
+      "lon": -82.419578
+    },
+    {
+      "type": "node",
+      "id": 84752374,
+      "lat": 29.659165,
+      "lon": -82.419885
+    },
+    {
+      "type": "node",
+      "id": 84773839,
+      "lat": 29.6592969,
+      "lon": -82.4188153
+    },
+    {
+      "type": "node",
+      "id": 84773841,
+      "lat": 29.658932,
+      "lon": -82.41861
+    },
+    {
+      "type": "node",
+      "id": 84773842,
+      "lat": 29.658718,
+      "lon": -82.41853
+    },
+    {
+      "type": "node",
+      "id": 84773845,
+      "lat": 29.658543,
+      "lon": -82.418518
+    },
+    {
+      "type": "node",
+      "id": 84773849,
+      "lat": 29.658405,
+      "lon": -82.418544
+    },
+    {
+      "type": "node",
+      "id": 84773869,
+      "lat": 29.659012,
+      "lon": -82.419753
+    },
+    {
+      "type": "node",
+      "id": 84795566,
+      "lat": 29.6610257,
+      "lon": -82.4185788
+    },
+    {
+      "type": "node",
+      "id": 84795568,
+      "lat": 29.6613401,
+      "lon": -82.4191331
+    },
+    {
+      "type": "node",
+      "id": 84795572,
+      "lat": 29.661925,
+      "lon": -82.420156
+    },
+    {
+      "type": "node",
+      "id": 84795574,
+      "lat": 29.6623267,
+      "lon": -82.4208117
+    },
+    {
+      "type": "node",
+      "id": 84795575,
+      "lat": 29.6628249,
+      "lon": -82.4214081
+    },
+    {
+      "type": "node",
+      "id": 84795577,
+      "lat": 29.6631364,
+      "lon": -82.4217627
+    },
+    {
+      "type": "node",
+      "id": 84796653,
+      "lat": 29.6597174,
+      "lon": -82.4183666
+    },
+    {
+      "type": "node",
+      "id": 84846864,
+      "lat": 29.6599293,
+      "lon": -82.4193612
+    },
+    {
+      "type": "node",
+      "id": 84846866,
+      "lat": 29.664368,
+      "lon": -82.423103
+    },
+    {
+      "type": "node",
+      "id": 84846867,
+      "lat": 29.6647048,
+      "lon": -82.4233954
+    },
+    {
+      "type": "node",
+      "id": 84847257,
+      "lat": 29.662038,
+      "lon": -82.420819
+    },
+    {
+      "type": "node",
+      "id": 84847261,
+      "lat": 29.6599274,
+      "lon": -82.4190628
+    },
+    {
+      "type": "node",
+      "id": 618105880,
+      "lat": 29.6593516,
+      "lon": -82.4185586
+    },
+    {
+      "type": "node",
+      "id": 618105959,
+      "lat": 29.6593614,
+      "lon": -82.4188706
+    },
+    {
+      "type": "node",
+      "id": 2755163199,
+      "lat": 29.6593047,
+      "lon": -82.4197488
+    },
+    {
+      "type": "node",
+      "id": 2755163200,
+      "lat": 29.6594265,
+      "lon": -82.4196656
+    },
+    {
+      "type": "node",
+      "id": 2755163201,
+      "lat": 29.6595006,
+      "lon": -82.4195932
+    },
+    {
+      "type": "node",
+      "id": 2755163204,
+      "lat": 29.6594867,
+      "lon": -82.420138
+    },
+    {
+      "type": "node",
+      "id": 2755163205,
+      "lat": 29.6594087,
+      "lon": -82.4200701
+    },
+    {
+      "type": "node",
+      "id": 2755163206,
+      "lat": 29.6593272,
+      "lon": -82.4200023
+    },
+    {
+      "type": "node",
+      "id": 3205671852,
+      "lat": 29.6595258,
+      "lon": -82.4199664
+    },
+    {
+      "type": "node",
+      "id": 3205671866,
+      "lat": 29.659557,
+      "lon": -82.4182118
+    },
+    {
+      "type": "node",
+      "id": 3205671870,
+      "lat": 29.6595658,
+      "lon": -82.4194913
+    },
+    {
+      "type": "node",
+      "id": 3205671876,
+      "lat": 29.6595802,
+      "lon": -82.4202848
+    },
+    {
+      "type": "node",
+      "id": 3791466325,
+      "lat": 29.6594838,
+      "lon": -82.418154
+    },
+    {
+      "type": "node",
+      "id": 3791466338,
+      "lat": 29.6594962,
+      "lon": -82.4199597
+    },
+    {
+      "type": "node",
+      "id": 3791466339,
+      "lat": 29.6594974,
+      "lon": -82.4197963
+    },
+    {
+      "type": "node",
+      "id": 3791466341,
+      "lat": 29.6595017,
+      "lon": -82.4201515
+    },
+    {
+      "type": "node",
+      "id": 3797071525,
+      "lat": 29.6595697,
+      "lon": -82.4198234
+    },
+    {
+      "type": "node",
+      "id": 3797071526,
+      "lat": 29.6595732,
+      "lon": -82.419959
+    },
+    {
+      "type": "node",
+      "id": 3797071528,
+      "lat": 29.6596508,
+      "lon": -82.4198531
+    },
+    {
+      "type": "node",
+      "id": 3797071532,
+      "lat": 29.6597189,
+      "lon": -82.4197736
+    },
+    {
+      "type": "node",
+      "id": 3797071533,
+      "lat": 29.6597215,
+      "lon": -82.4198855
+    },
+    {
+      "type": "node",
+      "id": 4074207067,
+      "lat": 29.6625667,
+      "lon": -82.4211218
+    },
+    {
+      "type": "node",
+      "id": 4074207080,
+      "lat": 29.6641146,
+      "lon": -82.4225934
+    },
+    {
+      "type": "node",
+      "id": 4074207087,
+      "lat": 29.6648308,
+      "lon": -82.4231851
+    },
+    {
+      "type": "node",
+      "id": 84846873,
+      "lat": 29.6682,
+      "lon": -82.426605
+    },
+    {
+      "type": "node",
+      "id": 84847247,
+      "lat": 29.6692764,
+      "lon": -82.4272002
+    },
+    {
+      "type": "node",
+      "id": 84847249,
+      "lat": 29.667994,
+      "lon": -82.42597
+    },
+    {
+      "type": "node",
+      "id": 4074207495,
+      "lat": 29.6664659,
+      "lon": -82.4249614
+    },
+    {
+      "type": "node",
+      "id": 84847250,
+      "lat": 29.666462,
+      "lon": -82.424592
+    },
+    {
+      "type": "node",
+      "id": 84847251,
+      "lat": 29.6661775,
+      "lon": -82.4243461
+    },
+    {
+      "type": "node",
+      "id": 84847254,
+      "lat": 29.66552,
+      "lon": -82.423787
+    },
+    {
+      "type": "node",
+      "id": 4074207556,
+      "lat": 29.6814188,
+      "lon": -82.4394682
+    },
+    {
+      "type": "node",
+      "id": 7862964100,
+      "lat": 29.6780292,
+      "lon": -82.4357101
+    },
+    {
+      "type": "node",
+      "id": 84846817,
+      "lat": 29.594053,
+      "lon": -82.366264
+    },
+    {
+      "type": "node",
+      "id": 84846819,
+      "lat": 29.595505,
+      "lon": -82.367576
+    },
+    {
+      "type": "node",
+      "id": 84846820,
+      "lat": 29.595853,
+      "lon": -82.36788
+    },
+    {
+      "type": "node",
+      "id": 84846822,
+      "lat": 29.598925,
+      "lon": -82.370634
+    },
+    {
+      "type": "node",
+      "id": 84847305,
+      "lat": 29.598925,
+      "lon": -82.370327
+    },
+    {
+      "type": "node",
+      "id": 84847307,
+      "lat": 29.598107,
+      "lon": -82.369602
+    },
+    {
+      "type": "node",
+      "id": 84847309,
+      "lat": 29.596707,
+      "lon": -82.368343
+    },
+    {
+      "type": "node",
+      "id": 84847310,
+      "lat": 29.595088,
+      "lon": -82.366904
+    },
+    {
+      "type": "node",
+      "id": 84847311,
+      "lat": 29.594522,
+      "lon": -82.366386
+    },
+    {
+      "type": "node",
+      "id": 4072649901,
+      "lat": 29.5937714,
+      "lon": -82.3657207
+    },
+    {
+      "type": "node",
+      "id": 84846831,
+      "lat": 29.609859,
+      "lon": -82.380438
+    },
+    {
+      "type": "node",
+      "id": 84847293,
+      "lat": 29.608923,
+      "lon": -82.379291
+    },
+    {
+      "type": "node",
+      "id": 1746843070,
+      "lat": 29.6119871,
+      "lon": -82.3822652
+    },
+    {
+      "type": "node",
+      "id": 1746843071,
+      "lat": 29.6120265,
+      "lon": -82.3820127
+    },
+    {
+      "type": "node",
+      "id": 84733667,
+      "lat": 29.6023993,
+      "lon": -82.3734458
+    },
+    {
+      "type": "node",
+      "id": 84733672,
+      "lat": 29.60284,
+      "lon": -82.373651
+    },
+    {
+      "type": "node",
+      "id": 84733674,
+      "lat": 29.602939,
+      "lon": -82.373689
+    },
+    {
+      "type": "node",
+      "id": 84733675,
+      "lat": 29.603043,
+      "lon": -82.373704
+    },
+    {
+      "type": "node",
+      "id": 84733676,
+      "lat": 29.603148,
+      "lon": -82.373698
+    },
+    {
+      "type": "node",
+      "id": 84733677,
+      "lat": 29.603249,
+      "lon": -82.373669
+    },
+    {
+      "type": "node",
+      "id": 84733679,
+      "lat": 29.603344,
+      "lon": -82.373619
+    },
+    {
+      "type": "node",
+      "id": 84733680,
+      "lat": 29.603429,
+      "lon": -82.373548
+    },
+    {
+      "type": "node",
+      "id": 84733681,
+      "lat": 29.603483,
+      "lon": -82.373479
+    },
+    {
+      "type": "node",
+      "id": 84733683,
+      "lat": 29.603532,
+      "lon": -82.37337
+    },
+    {
+      "type": "node",
+      "id": 84733686,
+      "lat": 29.603547,
+      "lon": -82.373311
+    },
+    {
+      "type": "node",
+      "id": 84733688,
+      "lat": 29.603554,
+      "lon": -82.373249
+    },
+    {
+      "type": "node",
+      "id": 84733689,
+      "lat": 29.603554,
+      "lon": -82.373155
+    },
+    {
+      "type": "node",
+      "id": 84733693,
+      "lat": 29.603531,
+      "lon": -82.373034
+    },
+    {
+      "type": "node",
+      "id": 84733695,
+      "lat": 29.603496,
+      "lon": -82.372949
+    },
+    {
+      "type": "node",
+      "id": 84733697,
+      "lat": 29.603448,
+      "lon": -82.372873
+    },
+    {
+      "type": "node",
+      "id": 84733700,
+      "lat": 29.6032451,
+      "lon": -82.3726717
+    },
+    {
+      "type": "node",
+      "id": 84733702,
+      "lat": 29.6031031,
+      "lon": -82.372574
+    },
+    {
+      "type": "node",
+      "id": 84733704,
+      "lat": 29.6027168,
+      "lon": -82.372282
+    },
+    {
+      "type": "node",
+      "id": 84743370,
+      "lat": 29.6022089,
+      "lon": -82.3735797
+    },
+    {
+      "type": "node",
+      "id": 84743371,
+      "lat": 29.602577,
+      "lon": -82.374121
+    },
+    {
+      "type": "node",
+      "id": 84743374,
+      "lat": 29.602609,
+      "lon": -82.374192
+    },
+    {
+      "type": "node",
+      "id": 84743375,
+      "lat": 29.602642,
+      "lon": -82.374305
+    },
+    {
+      "type": "node",
+      "id": 84743378,
+      "lat": 29.602655,
+      "lon": -82.374384
+    },
+    {
+      "type": "node",
+      "id": 84743380,
+      "lat": 29.602659,
+      "lon": -82.374463
+    },
+    {
+      "type": "node",
+      "id": 84743383,
+      "lat": 29.602654,
+      "lon": -82.374544
+    },
+    {
+      "type": "node",
+      "id": 84743385,
+      "lat": 29.602642,
+      "lon": -82.374622
+    },
+    {
+      "type": "node",
+      "id": 84743388,
+      "lat": 29.602621,
+      "lon": -82.374691
+    },
+    {
+      "type": "node",
+      "id": 84743389,
+      "lat": 29.602593,
+      "lon": -82.37475
+    },
+    {
+      "type": "node",
+      "id": 84743393,
+      "lat": 29.602539,
+      "lon": -82.374829
+    },
+    {
+      "type": "node",
+      "id": 84743395,
+      "lat": 29.602472,
+      "lon": -82.374893
+    },
+    {
+      "type": "node",
+      "id": 84743397,
+      "lat": 29.602394,
+      "lon": -82.37494
+    },
+    {
+      "type": "node",
+      "id": 84743398,
+      "lat": 29.60231,
+      "lon": -82.374969
+    },
+    {
+      "type": "node",
+      "id": 84743401,
+      "lat": 29.602222,
+      "lon": -82.374976
+    },
+    {
+      "type": "node",
+      "id": 84743404,
+      "lat": 29.60213,
+      "lon": -82.374962
+    },
+    {
+      "type": "node",
+      "id": 84743406,
+      "lat": 29.602042,
+      "lon": -82.374926
+    },
+    {
+      "type": "node",
+      "id": 84743408,
+      "lat": 29.601978,
+      "lon": -82.374884
+    },
+    {
+      "type": "node",
+      "id": 84743409,
+      "lat": 29.601285,
+      "lon": -82.3742769
+    },
+    {
+      "type": "node",
+      "id": 84790724,
+      "lat": 29.6032055,
+      "lon": -82.3725514
+    },
+    {
+      "type": "node",
+      "id": 84790725,
+      "lat": 29.603601,
+      "lon": -82.372955
+    },
+    {
+      "type": "node",
+      "id": 84790727,
+      "lat": 29.603654,
+      "lon": -82.37306
+    },
+    {
+      "type": "node",
+      "id": 84790728,
+      "lat": 29.603695,
+      "lon": -82.373172
+    },
+    {
+      "type": "node",
+      "id": 84790730,
+      "lat": 29.603724,
+      "lon": -82.373288
+    },
+    {
+      "type": "node",
+      "id": 84790732,
+      "lat": 29.603841,
+      "lon": -82.373974
+    },
+    {
+      "type": "node",
+      "id": 84790734,
+      "lat": 29.603877,
+      "lon": -82.374129
+    },
+    {
+      "type": "node",
+      "id": 84790735,
+      "lat": 29.603946,
+      "lon": -82.374356
+    },
+    {
+      "type": "node",
+      "id": 84790737,
+      "lat": 29.604034,
+      "lon": -82.374576
+    },
+    {
+      "type": "node",
+      "id": 84790739,
+      "lat": 29.604102,
+      "lon": -82.374717
+    },
+    {
+      "type": "node",
+      "id": 84790741,
+      "lat": 29.604243,
+      "lon": -82.374935
+    },
+    {
+      "type": "node",
+      "id": 84790742,
+      "lat": 29.604389,
+      "lon": -82.375118
+    },
+    {
+      "type": "node",
+      "id": 84790744,
+      "lat": 29.604601,
+      "lon": -82.375413
+    },
+    {
+      "type": "node",
+      "id": 84793267,
+      "lat": 29.604466,
+      "lon": -82.375593
+    },
+    {
+      "type": "node",
+      "id": 84793269,
+      "lat": 29.604018,
+      "lon": -82.375352
+    },
+    {
+      "type": "node",
+      "id": 84793270,
+      "lat": 29.603856,
+      "lon": -82.375271
+    },
+    {
+      "type": "node",
+      "id": 84793272,
+      "lat": 29.603582,
+      "lon": -82.37519
+    },
+    {
+      "type": "node",
+      "id": 84793273,
+      "lat": 29.603386,
+      "lon": -82.375155
+    },
+    {
+      "type": "node",
+      "id": 84793275,
+      "lat": 29.603244,
+      "lon": -82.375142
+    },
+    {
+      "type": "node",
+      "id": 84793277,
+      "lat": 29.6023985,
+      "lon": -82.3751388
+    },
+    {
+      "type": "node",
+      "id": 84846823,
+      "lat": 29.60069,
+      "lon": -82.372237
+    },
+    {
+      "type": "node",
+      "id": 84846825,
+      "lat": 29.6017681,
+      "lon": -82.3731728
+    },
+    {
+      "type": "node",
+      "id": 84846829,
+      "lat": 29.603111,
+      "lon": -82.374377
+    },
+    {
+      "type": "node",
+      "id": 84847294,
+      "lat": 29.6052499,
+      "lon": -82.3759813
+    },
+    {
+      "type": "node",
+      "id": 84847299,
+      "lat": 29.6023432,
+      "lon": -82.3733936
+    },
+    {
+      "type": "node",
+      "id": 84847302,
+      "lat": 29.60134,
+      "lon": -82.372479
+    },
+    {
+      "type": "node",
+      "id": 618106183,
+      "lat": 29.6018996,
+      "lon": -82.3729892
+    },
+    {
+      "type": "node",
+      "id": 618106896,
+      "lat": 29.6029271,
+      "lon": -82.372493
+    },
+    {
+      "type": "node",
+      "id": 618106898,
+      "lat": 29.6028813,
+      "lon": -82.3724577
+    },
+    {
+      "type": "node",
+      "id": 2166336868,
+      "lat": 29.6010458,
+      "lon": -82.3747977
+    },
+    {
+      "type": "node",
+      "id": 2166336871,
+      "lat": 29.6011758,
+      "lon": -82.3747237
+    },
+    {
+      "type": "node",
+      "id": 2166336874,
+      "lat": 29.6012862,
+      "lon": -82.3746745
+    },
+    {
+      "type": "node",
+      "id": 2166336876,
+      "lat": 29.6013408,
+      "lon": -82.3744017
+    },
+    {
+      "type": "node",
+      "id": 2166336878,
+      "lat": 29.6013759,
+      "lon": -82.3744672
+    },
+    {
+      "type": "node",
+      "id": 2166336879,
+      "lat": 29.6013796,
+      "lon": -82.3743455
+    },
+    {
+      "type": "node",
+      "id": 2166336881,
+      "lat": 29.6013979,
+      "lon": -82.374657
+    },
+    {
+      "type": "node",
+      "id": 2166336896,
+      "lat": 29.6014185,
+      "lon": -82.3745173
+    },
+    {
+      "type": "node",
+      "id": 2166336898,
+      "lat": 29.6014524,
+      "lon": -82.3744014
+    },
+    {
+      "type": "node",
+      "id": 2166336900,
+      "lat": 29.6015043,
+      "lon": -82.3746754
+    },
+    {
+      "type": "node",
+      "id": 2166336901,
+      "lat": 29.6015932,
+      "lon": -82.3743538
+    },
+    {
+      "type": "node",
+      "id": 2166336903,
+      "lat": 29.6016008,
+      "lon": -82.3742017
+    },
+    {
+      "type": "node",
+      "id": 2166336905,
+      "lat": 29.601616,
+      "lon": -82.3744674
+    },
+    {
+      "type": "node",
+      "id": 2166336906,
+      "lat": 29.6016638,
+      "lon": -82.3747608
+    },
+    {
+      "type": "node",
+      "id": 2166336908,
+      "lat": 29.6016647,
+      "lon": -82.3745618
+    },
+    {
+      "type": "node",
+      "id": 2166336909,
+      "lat": 29.6016979,
+      "lon": -82.3739112
+    },
+    {
+      "type": "node",
+      "id": 2166336924,
+      "lat": 29.6017295,
+      "lon": -82.3746558
+    },
+    {
+      "type": "node",
+      "id": 2166336926,
+      "lat": 29.6018662,
+      "lon": -82.3749447
+    },
+    {
+      "type": "node",
+      "id": 2166336927,
+      "lat": 29.6019454,
+      "lon": -82.375003
+    },
+    {
+      "type": "node",
+      "id": 2166336931,
+      "lat": 29.6020232,
+      "lon": -82.3750513
+    },
+    {
+      "type": "node",
+      "id": 2166336934,
+      "lat": 29.6021468,
+      "lon": -82.3751032
+    },
+    {
+      "type": "node",
+      "id": 2166336936,
+      "lat": 29.6022691,
+      "lon": -82.3751287
+    },
+    {
+      "type": "node",
+      "id": 2166336952,
+      "lat": 29.6025878,
+      "lon": -82.3726928
+    },
+    {
+      "type": "node",
+      "id": 2166336957,
+      "lat": 29.6027212,
+      "lon": -82.372596
+    },
+    {
+      "type": "node",
+      "id": 2166336959,
+      "lat": 29.6027985,
+      "lon": -82.3725651
+    },
+    {
+      "type": "node",
+      "id": 2166336961,
+      "lat": 29.6028102,
+      "lon": -82.3723881
+    },
+    {
+      "type": "node",
+      "id": 2166336965,
+      "lat": 29.6028757,
+      "lon": -82.3722966
+    },
+    {
+      "type": "node",
+      "id": 2166336967,
+      "lat": 29.6028882,
+      "lon": -82.372548
+    },
+    {
+      "type": "node",
+      "id": 2166336984,
+      "lat": 29.6029423,
+      "lon": -82.3723203
+    },
+    {
+      "type": "node",
+      "id": 2166336985,
+      "lat": 29.6029875,
+      "lon": -82.3723433
+    },
+    {
+      "type": "node",
+      "id": 2166336987,
+      "lat": 29.6030468,
+      "lon": -82.3725475
+    },
+    {
+      "type": "node",
+      "id": 2166336988,
+      "lat": 29.6030547,
+      "lon": -82.3722289
+    },
+    {
+      "type": "node",
+      "id": 2166336989,
+      "lat": 29.6030605,
+      "lon": -82.3722892
+    },
+    {
+      "type": "node",
+      "id": 2166337007,
+      "lat": 29.603081,
+      "lon": -82.372365
+    },
+    {
+      "type": "node",
+      "id": 2166337008,
+      "lat": 29.60312,
+      "lon": -82.3724483
+    },
+    {
+      "type": "node",
+      "id": 4072677594,
+      "lat": 29.6014539,
+      "lon": -82.3746594
+    },
+    {
+      "type": "node",
+      "id": 4072677608,
+      "lat": 29.6034904,
+      "lon": -82.3751714
+    },
+    {
+      "type": "node",
+      "id": 4072677615,
+      "lat": 29.604688,
+      "lon": -82.3757925
+    },
+    {
+      "type": "node",
+      "id": 4090258383,
+      "lat": 29.6027597,
+      "lon": -82.3723307
+    },
+    {
+      "type": "node",
+      "id": 7073922707,
+      "lat": 29.6028272,
+      "lon": -82.3722885
+    },
+    {
+      "type": "node",
+      "id": 7073922708,
+      "lat": 29.6027838,
+      "lon": -82.3722859
+    },
+    {
+      "type": "node",
+      "id": 7073922734,
+      "lat": 29.6031526,
+      "lon": -82.372604
+    },
+    {
+      "type": "node",
+      "id": 7073922735,
+      "lat": 29.6032049,
+      "lon": -82.3726369
+    },
+    {
+      "type": "node",
+      "id": 7073922736,
+      "lat": 29.6029606,
+      "lon": -82.3725468
+    },
+    {
+      "type": "node",
+      "id": 84847304,
+      "lat": 29.600419,
+      "lon": -82.371672
+    },
+    {
+      "type": "node",
+      "id": 2166337005,
+      "lat": 29.6030691,
+      "lon": -82.3721371
+    },
+    {
+      "type": "node",
+      "id": 2166337009,
+      "lat": 29.6031055,
+      "lon": -82.3719815
+    },
+    {
+      "type": "node",
+      "id": 4072649914,
+      "lat": 29.6001735,
+      "lon": -82.3717679
+    },
+    {
+      "type": "node",
+      "id": 4072677616,
+      "lat": 29.6068075,
+      "lon": -82.3773848
+    },
+    {
+      "type": "node",
+      "id": 84846839,
+      "lat": 29.631013,
+      "lon": -82.395901
+    },
+    {
+      "type": "node",
+      "id": 84846840,
+      "lat": 29.6318888,
+      "lon": -82.3965126
+    },
+    {
+      "type": "node",
+      "id": 84847278,
+      "lat": 29.631244,
+      "lon": -82.395775
+    },
+    {
+      "type": "node",
+      "id": 1746843072,
+      "lat": 29.6319992,
+      "lon": -82.3963083
+    },
+    {
+      "type": "node",
+      "id": 84846843,
+      "lat": 29.637509,
+      "lon": -82.400483
+    },
+    {
+      "type": "node",
+      "id": 84847273,
+      "lat": 29.638224,
+      "lon": -82.400736
+    },
+    {
+      "type": "node",
+      "id": 84847275,
+      "lat": 29.636881,
+      "lon": -82.399743
+    },
+    {
+      "type": "node",
+      "id": 84846842,
+      "lat": 29.632971,
+      "lon": -82.397282
+    },
+    {
+      "type": "node",
+      "id": 84847277,
+      "lat": 29.632962,
+      "lon": -82.396985
+    },
+    {
+      "type": "node",
+      "id": 1746843079,
+      "lat": 29.6322386,
+      "lon": -82.3967579
+    },
+    {
+      "type": "node",
+      "id": 1746843160,
+      "lat": 29.6323448,
+      "lon": -82.3965513
+    },
+    {
+      "type": "node",
+      "id": 84714158,
+      "lat": 29.6171096,
+      "lon": -82.3858135
+    },
+    {
+      "type": "node",
+      "id": 84714159,
+      "lat": 29.6170015,
+      "lon": -82.386018
+    },
+    {
+      "type": "node",
+      "id": 84714163,
+      "lat": 29.616866,
+      "lon": -82.3871373
+    },
+    {
+      "type": "node",
+      "id": 84735481,
+      "lat": 29.6184692,
+      "lon": -82.3858575
+    },
+    {
+      "type": "node",
+      "id": 84735482,
+      "lat": 29.618808,
+      "lon": -82.386157
+    },
+    {
+      "type": "node",
+      "id": 84751032,
+      "lat": 29.616486,
+      "lon": -82.3869622
+    },
+    {
+      "type": "node",
+      "id": 84751038,
+      "lat": 29.615387,
+      "lon": -82.385489
+    },
+    {
+      "type": "node",
+      "id": 84817919,
+      "lat": 29.6185494,
+      "lon": -82.387843
+    },
+    {
+      "type": "node",
+      "id": 84817920,
+      "lat": 29.6176305,
+      "lon": -82.3874668
+    },
+    {
+      "type": "node",
+      "id": 84817922,
+      "lat": 29.6171375,
+      "lon": -82.3872549
+    },
+    {
+      "type": "node",
+      "id": 84846837,
+      "lat": 29.617497,
+      "lon": -82.3863668
+    },
+    {
+      "type": "node",
+      "id": 84847283,
+      "lat": 29.6176064,
+      "lon": -82.3861719
+    },
+    {
+      "type": "node",
+      "id": 2168047874,
+      "lat": 29.6163869,
+      "lon": -82.3876231
+    },
+    {
+      "type": "node",
+      "id": 2168047875,
+      "lat": 29.6164153,
+      "lon": -82.3868668
+    },
+    {
+      "type": "node",
+      "id": 2168047876,
+      "lat": 29.6164279,
+      "lon": -82.3869827
+    },
+    {
+      "type": "node",
+      "id": 2168047877,
+      "lat": 29.6164384,
+      "lon": -82.3873573
+    },
+    {
+      "type": "node",
+      "id": 2168047878,
+      "lat": 29.6164478,
+      "lon": -82.3871579
+    },
+    {
+      "type": "node",
+      "id": 2168047895,
+      "lat": 29.6165562,
+      "lon": -82.3870122
+    },
+    {
+      "type": "node",
+      "id": 2168047899,
+      "lat": 29.6166999,
+      "lon": -82.3870472
+    },
+    {
+      "type": "node",
+      "id": 2168047923,
+      "lat": 29.6170018,
+      "lon": -82.3871956
+    },
+    {
+      "type": "node",
+      "id": 2168047950,
+      "lat": 29.6173558,
+      "lon": -82.387347
+    },
+    {
+      "type": "node",
+      "id": 2168047980,
+      "lat": 29.6181966,
+      "lon": -82.385377
+    },
+    {
+      "type": "node",
+      "id": 2168047983,
+      "lat": 29.6182523,
+      "lon": -82.385528
+    },
+    {
+      "type": "node",
+      "id": 2168047985,
+      "lat": 29.6183279,
+      "lon": -82.3856645
+    },
+    {
+      "type": "node",
+      "id": 3801708428,
+      "lat": 29.6166087,
+      "lon": -82.3870438
+    },
+    {
+      "type": "node",
+      "id": 3801708436,
+      "lat": 29.6169214,
+      "lon": -82.3871633
+    },
+    {
+      "type": "node",
+      "id": 3801708452,
+      "lat": 29.6178794,
+      "lon": -82.3853432
+    },
+    {
+      "type": "node",
+      "id": 3801708512,
+      "lat": 29.6164438,
+      "lon": -82.3872432
+    },
+    {
+      "type": "node",
+      "id": 8852587041,
+      "lat": 29.6161749,
+      "lon": -82.3864327
+    },
+    {
+      "type": "node",
+      "id": 8852587042,
+      "lat": 29.6163051,
+      "lon": -82.3866512
+    },
+    {
+      "type": "node",
+      "id": 84714156,
+      "lat": 29.6178111,
+      "lon": -82.3852837
+    },
+    {
+      "type": "node",
+      "id": 84735465,
+      "lat": 29.6126816,
+      "lon": -82.3825424
+    },
+    {
+      "type": "node",
+      "id": 84735471,
+      "lat": 29.614531,
+      "lon": -82.383744
+    },
+    {
+      "type": "node",
+      "id": 84735474,
+      "lat": 29.614993,
+      "lon": -82.384015
+    },
+    {
+      "type": "node",
+      "id": 84735475,
+      "lat": 29.615514,
+      "lon": -82.384262
+    },
+    {
+      "type": "node",
+      "id": 84735477,
+      "lat": 29.6170003,
+      "lon": -82.3847916
+    },
+    {
+      "type": "node",
+      "id": 84735478,
+      "lat": 29.6175606,
+      "lon": -82.3850229
+    },
+    {
+      "type": "node",
+      "id": 84751039,
+      "lat": 29.6149628,
+      "lon": -82.384962
+    },
+    {
+      "type": "node",
+      "id": 84751041,
+      "lat": 29.614736,
+      "lon": -82.384709
+    },
+    {
+      "type": "node",
+      "id": 84751043,
+      "lat": 29.614582,
+      "lon": -82.38454
+    },
+    {
+      "type": "node",
+      "id": 84751044,
+      "lat": 29.6142675,
+      "lon": -82.3842206
+    },
+    {
+      "type": "node",
+      "id": 84751052,
+      "lat": 29.6130285,
+      "lon": -82.3831115
+    },
+    {
+      "type": "node",
+      "id": 84846834,
+      "lat": 29.614128,
+      "lon": -82.383958
+    },
+    {
+      "type": "node",
+      "id": 84846836,
+      "lat": 29.615044,
+      "lon": -82.384641
+    },
+    {
+      "type": "node",
+      "id": 84847285,
+      "lat": 29.615882,
+      "lon": -82.384961
+    },
+    {
+      "type": "node",
+      "id": 84847288,
+      "lat": 29.614408,
+      "lon": -82.383892
+    },
+    {
+      "type": "node",
+      "id": 2168047956,
+      "lat": 29.6176887,
+      "lon": -82.3851384
+    },
+    {
+      "type": "node",
+      "id": 2168047965,
+      "lat": 29.6181599,
+      "lon": -82.3849819
+    },
+    {
+      "type": "node",
+      "id": 2168047978,
+      "lat": 29.618162,
+      "lon": -82.3851873
+    },
+    {
+      "type": "node",
+      "id": 2168047979,
+      "lat": 29.6181651,
+      "lon": -82.3848417
+    },
+    {
+      "type": "node",
+      "id": 2168047982,
+      "lat": 29.6182292,
+      "lon": -82.3844906
+    },
+    {
+      "type": "node",
+      "id": 3790911952,
+      "lat": 29.6163274,
+      "lon": -82.384545
+    },
+    {
+      "type": "node",
+      "id": 3801708447,
+      "lat": 29.6176373,
+      "lon": -82.3850724
+    },
+    {
+      "type": "node",
+      "id": 3801708557,
+      "lat": 29.6181601,
+      "lon": -82.3849754
+    },
+    {
+      "type": "node",
+      "id": 7064575317,
+      "lat": 29.6165362,
+      "lon": -82.3846027
+    },
+    {
+      "type": "node",
+      "id": 7064575318,
+      "lat": 29.6157005,
+      "lon": -82.3843285
+    },
+    {
+      "type": "node",
+      "id": 7064575319,
+      "lat": 29.6138142,
+      "lon": -82.3832576
+    },
+    {
+      "type": "node",
+      "id": 7064575320,
+      "lat": 29.6131901,
+      "lon": -82.3828444
+    },
+    {
+      "type": "node",
+      "id": 7064575321,
+      "lat": 29.6135711,
+      "lon": -82.3836287
+    },
+    {
+      "type": "node",
+      "id": 84735483,
+      "lat": 29.619744,
+      "lon": -82.387068
+    },
+    {
+      "type": "node",
+      "id": 84735484,
+      "lat": 29.620802,
+      "lon": -82.388116
+    },
+    {
+      "type": "node",
+      "id": 84735485,
+      "lat": 29.621188,
+      "lon": -82.388487
+    },
+    {
+      "type": "node",
+      "id": 84735487,
+      "lat": 29.62305,
+      "lon": -82.390008
+    },
+    {
+      "type": "node",
+      "id": 84817914,
+      "lat": 29.6219583,
+      "lon": -82.3895388
+    },
+    {
+      "type": "node",
+      "id": 84817916,
+      "lat": 29.621059,
+      "lon": -82.389066
+    },
+    {
+      "type": "node",
+      "id": 84817917,
+      "lat": 29.620352,
+      "lon": -82.388658
+    },
+    {
+      "type": "node",
+      "id": 84817918,
+      "lat": 29.619703,
+      "lon": -82.388348
+    },
+    {
+      "type": "node",
+      "id": 84847280,
+      "lat": 29.621674,
+      "lon": -82.389037
+    },
+    {
+      "type": "node",
+      "id": 84847282,
+      "lat": 29.621156,
+      "lon": -82.388663
+    },
+    {
+      "type": "node",
+      "id": 3790912183,
+      "lat": 29.6198089,
+      "lon": -82.3883943
+    },
+    {
+      "type": "node",
+      "id": 4072782037,
+      "lat": 29.6217924,
+      "lon": -82.3894921
+    },
+    {
+      "type": "node",
+      "id": 4072782039,
+      "lat": 29.6223832,
+      "lon": -82.3898373
+    },
+    {
+      "type": "node",
+      "id": 84741891,
+      "lat": 29.5880136,
+      "lon": -82.3611396
+    },
+    {
+      "type": "node",
+      "id": 84741892,
+      "lat": 29.588901,
+      "lon": -82.3615496
+    },
+    {
+      "type": "node",
+      "id": 84741903,
+      "lat": 29.59191,
+      "lon": -82.363894
+    },
+    {
+      "type": "node",
+      "id": 84741904,
+      "lat": 29.592392,
+      "lon": -82.364498
+    },
+    {
+      "type": "node",
+      "id": 84753049,
+      "lat": 29.591897,
+      "lon": -82.364353
+    },
+    {
+      "type": "node",
+      "id": 84753052,
+      "lat": 29.5912937,
+      "lon": -82.3641492
+    },
+    {
+      "type": "node",
+      "id": 84753065,
+      "lat": 29.5886951,
+      "lon": -82.3620807
+    },
+    {
+      "type": "node",
+      "id": 84753068,
+      "lat": 29.588214,
+      "lon": -82.361569
+    },
+    {
+      "type": "node",
+      "id": 84846805,
+      "lat": 29.586407,
+      "lon": -82.360482
+    },
+    {
+      "type": "node",
+      "id": 84846806,
+      "lat": 29.587967,
+      "lon": -82.361407
+    },
+    {
+      "type": "node",
+      "id": 84846807,
+      "lat": 29.58897,
+      "lon": -82.362065
+    },
+    {
+      "type": "node",
+      "id": 84846809,
+      "lat": 29.589399,
+      "lon": -82.362365
+    },
+    {
+      "type": "node",
+      "id": 84846810,
+      "lat": 29.589945,
+      "lon": -82.362766
+    },
+    {
+      "type": "node",
+      "id": 84846814,
+      "lat": 29.590539,
+      "lon": -82.363213
+    },
+    {
+      "type": "node",
+      "id": 84846815,
+      "lat": 29.591086,
+      "lon": -82.363653
+    },
+    {
+      "type": "node",
+      "id": 84846816,
+      "lat": 29.591989,
+      "lon": -82.364432
+    },
+    {
+      "type": "node",
+      "id": 84847312,
+      "lat": 29.591534,
+      "lon": -82.363745
+    },
+    {
+      "type": "node",
+      "id": 84847313,
+      "lat": 29.590651,
+      "lon": -82.363025
+    },
+    {
+      "type": "node",
+      "id": 84847315,
+      "lat": 29.589888,
+      "lon": -82.362451
+    },
+    {
+      "type": "node",
+      "id": 84847317,
+      "lat": 29.588772,
+      "lon": -82.361673
+    },
+    {
+      "type": "node",
+      "id": 84847319,
+      "lat": 29.5876718,
+      "lon": -82.3609384
+    },
+    {
+      "type": "node",
+      "id": 84847320,
+      "lat": 29.586951,
+      "lon": -82.360526
+    },
+    {
+      "type": "node",
+      "id": 2699360773,
+      "lat": 29.5891272,
+      "lon": -82.3616489
+    },
+    {
+      "type": "node",
+      "id": 2699360780,
+      "lat": 29.5911275,
+      "lon": -82.3641378
+    },
+    {
+      "type": "node",
+      "id": 2699360787,
+      "lat": 29.5914199,
+      "lon": -82.363295
+    },
+    {
+      "type": "node",
+      "id": 2699360788,
+      "lat": 29.5914516,
+      "lon": -82.3641865
+    },
+    {
+      "type": "node",
+      "id": 2699360789,
+      "lat": 29.5915958,
+      "lon": -82.3642413
+    },
+    {
+      "type": "node",
+      "id": 4072649836,
+      "lat": 29.5866378,
+      "lon": -82.3606188
+    },
+    {
+      "type": "node",
+      "id": 4072649841,
+      "lat": 29.5875075,
+      "lon": -82.3611345
+    },
+    {
+      "type": "node",
+      "id": 4072649843,
+      "lat": 29.5877345,
+      "lon": -82.3609753
+    },
+    {
+      "type": "node",
+      "id": 4072649897,
+      "lat": 29.5933485,
+      "lon": -82.3656387
+    },
+    {
+      "type": "node",
+      "id": 4072649899,
+      "lat": 29.5934966,
+      "lon": -82.3654771
+    },
+    {
+      "type": "node",
+      "id": 84846853,
+      "lat": 29.645081,
+      "lon": -82.40672
+    },
+    {
+      "type": "node",
+      "id": 84846855,
+      "lat": 29.647296,
+      "lon": -82.408608
+    },
+    {
+      "type": "node",
+      "id": 84847265,
+      "lat": 29.650746,
+      "lon": -82.411223
+    },
+    {
+      "type": "node",
+      "id": 84847268,
+      "lat": 29.647167,
+      "lon": -82.408197
+    },
+    {
+      "type": "node",
+      "id": 84846845,
+      "lat": 29.63884,
+      "lon": -82.40149
+    },
+    {
+      "type": "node",
+      "id": 84846849,
+      "lat": 29.640339,
+      "lon": -82.402692
+    },
+    {
+      "type": "node",
+      "id": 84847270,
+      "lat": 29.640585,
+      "lon": -82.402601
+    },
+    {
+      "type": "node",
+      "id": 84847272,
+      "lat": 29.639724,
+      "lon": -82.4019
+    },
+    {
+      "type": "node",
+      "id": 84752342,
+      "lat": 29.6567722,
+      "lon": -82.416654
+    },
+    {
+      "type": "node",
+      "id": 84752344,
+      "lat": 29.657052,
+      "lon": -82.417064
+    },
+    {
+      "type": "node",
+      "id": 84752347,
+      "lat": 29.65714,
+      "lon": -82.417201
+    },
+    {
+      "type": "node",
+      "id": 84752349,
+      "lat": 29.657218,
+      "lon": -82.417348
+    },
+    {
+      "type": "node",
+      "id": 84752351,
+      "lat": 29.657296,
+      "lon": -82.417511
+    },
+    {
+      "type": "node",
+      "id": 84752353,
+      "lat": 29.657361,
+      "lon": -82.417681
+    },
+    {
+      "type": "node",
+      "id": 84752357,
+      "lat": 29.65743,
+      "lon": -82.417914
+    },
+    {
+      "type": "node",
+      "id": 84796646,
+      "lat": 29.6549135,
+      "lon": -82.4147806
+    },
+    {
+      "type": "node",
+      "id": 84796648,
+      "lat": 29.6577537,
+      "lon": -82.4168188
+    },
+    {
+      "type": "node",
+      "id": 84846858,
+      "lat": 29.65552,
+      "lon": -82.415598
+    },
+    {
+      "type": "node",
+      "id": 84846861,
+      "lat": 29.6579032,
+      "lon": -82.4176154
+    },
+    {
+      "type": "node",
+      "id": 84847263,
+      "lat": 29.6582,
+      "lon": -82.4175708
+    },
+    {
+      "type": "node",
+      "id": 84847264,
+      "lat": 29.653995,
+      "lon": -82.414003
+    },
+    {
+      "type": "node",
+      "id": 3797105801,
+      "lat": 29.6553478,
+      "lon": -82.4150373
+    },
+    {
+      "type": "node",
+      "id": 3797105805,
+      "lat": 29.6564561,
+      "lon": -82.4158958
+    },
+    {
+      "type": "node",
+      "id": 3797105806,
+      "lat": 29.6568665,
+      "lon": -82.4161559
+    },
+    {
+      "type": "node",
+      "id": 4072782246,
+      "lat": 29.653673,
+      "lon": -82.4140174
+    },
+    {
+      "type": "node",
+      "id": 4072782319,
+      "lat": 29.6562456,
+      "lon": -82.4162008
+    },
+    {
+      "type": "node",
+      "id": 4072782373,
+      "lat": 29.6573113,
+      "lon": -82.4164785
+    },
+    {
+      "type": "node",
+      "id": 4072782387,
+      "lat": 29.6574962,
+      "lon": -82.4166295
+    },
+    {
+      "type": "node",
+      "id": 84795552,
+      "lat": 29.6597075,
+      "lon": -82.4173893
+    },
+    {
+      "type": "node",
+      "id": 84795555,
+      "lat": 29.659806,
+      "lon": -82.41737
+    },
+    {
+      "type": "node",
+      "id": 84795558,
+      "lat": 29.659998,
+      "lon": -82.417382
+    },
+    {
+      "type": "node",
+      "id": 84795560,
+      "lat": 29.6602601,
+      "lon": -82.4174989
+    },
+    {
+      "type": "node",
+      "id": 84795561,
+      "lat": 29.6603754,
+      "lon": -82.4175884
+    },
+    {
+      "type": "node",
+      "id": 84795562,
+      "lat": 29.6604962,
+      "lon": -82.4177115
+    },
+    {
+      "type": "node",
+      "id": 84795564,
+      "lat": 29.6606166,
+      "lon": -82.4178783
+    },
+    {
+      "type": "node",
+      "id": 84796649,
+      "lat": 29.658396,
+      "lon": -82.417291
+    },
+    {
+      "type": "node",
+      "id": 84796651,
+      "lat": 29.6586132,
+      "lon": -82.4174504
+    },
+    {
+      "type": "node",
+      "id": 2755163190,
+      "lat": 29.6597077,
+      "lon": -82.4169559
+    },
+    {
+      "type": "node",
+      "id": 2755163191,
+      "lat": 29.6598232,
+      "lon": -82.4171512
+    },
+    {
+      "type": "node",
+      "id": 2755163192,
+      "lat": 29.6598767,
+      "lon": -82.4172047
+    },
+    {
+      "type": "node",
+      "id": 2755163193,
+      "lat": 29.6601156,
+      "lon": -82.4173886
+    },
+    {
+      "type": "node",
+      "id": 2755163194,
+      "lat": 29.6601852,
+      "lon": -82.4174507
+    },
+    {
+      "type": "node",
+      "id": 2755163195,
+      "lat": 29.6592055,
+      "lon": -82.4179099
+    },
+    {
+      "type": "node",
+      "id": 2755163196,
+      "lat": 29.659375,
+      "lon": -82.4179062
+    },
+    {
+      "type": "node",
+      "id": 2755163197,
+      "lat": 29.6594616,
+      "lon": -82.4178675
+    },
+    {
+      "type": "node",
+      "id": 3205671862,
+      "lat": 29.6595516,
+      "lon": -82.4176142
+    },
+    {
+      "type": "node",
+      "id": 3205671864,
+      "lat": 29.6595535,
+      "lon": -82.4177768
+    },
+    {
+      "type": "node",
+      "id": 3205671888,
+      "lat": 29.6596255,
+      "lon": -82.4174644
+    },
+    {
+      "type": "node",
+      "id": 3790913629,
+      "lat": 29.6597833,
+      "lon": -82.4173736
+    },
+    {
+      "type": "node",
+      "id": 3790913630,
+      "lat": 29.6597814,
+      "lon": -82.417083
+    },
+    {
+      "type": "node",
+      "id": 3797105807,
+      "lat": 29.6593123,
+      "lon": -82.4180086
+    },
+    {
+      "type": "node",
+      "id": 3797105808,
+      "lat": 29.6593173,
+      "lon": -82.4179153
+    },
+    {
+      "type": "node",
+      "id": 7071444492,
+      "lat": 29.659995,
+      "lon": -82.417302
+    },
+    {
+      "type": "node",
+      "id": 7071444499,
+      "lat": 29.6592671,
+      "lon": -82.4179161
+    },
+    {
+      "type": "node",
+      "id": 7071444500,
+      "lat": 29.6594234,
+      "lon": -82.4178899
+    },
+    {
+      "type": "node",
+      "id": 7862946941,
+      "lat": 29.6594982,
+      "lon": -82.4178391
+    },
+    {
+      "type": "node",
+      "id": 7862946942,
+      "lat": 29.6595258,
+      "lon": -82.4178103
+    },
+    {
+      "type": "node",
+      "id": 447888557,
+      "lat": 29.2671543,
+      "lon": -82.1933386
+    },
+    {
+      "type": "node",
+      "id": 447888635,
+      "lat": 29.2712704,
+      "lon": -82.1945445
+    },
+    {
+      "type": "node",
+      "id": 4238327902,
+      "lat": 29.2687,
+      "lon": -82.1938682
+    },
+    {
+      "type": "node",
+      "id": 4238327903,
+      "lat": 29.2702587,
+      "lon": -82.1944261
+    },
+    {
+      "type": "node",
+      "id": 98787116,
+      "lat": 29.2733553,
+      "lon": -82.195555
+    },
+    {
+      "type": "node",
+      "id": 447888558,
+      "lat": 29.2757383,
+      "lon": -82.196397
+    },
+    {
+      "type": "node",
+      "id": 447888636,
+      "lat": 29.2758132,
+      "lon": -82.1961738
+    },
+    {
+      "type": "node",
+      "id": 4238327905,
+      "lat": 29.2735436,
+      "lon": -82.1953669
+    },
+    {
+      "type": "node",
+      "id": 4238327906,
+      "lat": 29.2745421,
+      "lon": -82.195982
+    },
+    {
+      "type": "node",
+      "id": 4238327910,
+      "lat": 29.2779726,
+      "lon": -82.1972185
+    },
+    {
+      "type": "node",
+      "id": 4238327911,
+      "lat": 29.2786861,
+      "lon": -82.197221
+    },
+    {
+      "type": "node",
+      "id": 4238327913,
+      "lat": 29.2802187,
+      "lon": -82.198025
+    },
+    {
+      "type": "node",
+      "id": 4238327914,
+      "lat": 29.2815822,
+      "lon": -82.1982712
+    },
+    {
+      "type": "node",
+      "id": 4238327915,
+      "lat": 29.284702,
+      "lon": -82.1996456
+    },
+    {
+      "type": "node",
+      "id": 4238327916,
+      "lat": 29.2873519,
+      "lon": -82.2003525
+    },
+    {
+      "type": "node",
+      "id": 98879720,
+      "lat": 29.2936516,
+      "lon": -82.2029204
+    },
+    {
+      "type": "node",
+      "id": 447888559,
+      "lat": 29.2989187,
+      "lon": -82.2048915
+    },
+    {
+      "type": "node",
+      "id": 447888562,
+      "lat": 29.3037127,
+      "lon": -82.206651
+    },
+    {
+      "type": "node",
+      "id": 447888638,
+      "lat": 29.2988757,
+      "lon": -82.2046219
+    },
+    {
+      "type": "node",
+      "id": 447888639,
+      "lat": 29.3037094,
+      "lon": -82.2063958
+    },
+    {
+      "type": "node",
+      "id": 4238327930,
+      "lat": 29.301294,
+      "lon": -82.2055283
+    },
+    {
+      "type": "node",
+      "id": 4238327931,
+      "lat": 29.301314,
+      "lon": -82.2057848
+    },
+    {
+      "type": "node",
+      "id": 4238327933,
+      "lat": 29.3024982,
+      "lon": -82.2059742
+    },
+    {
+      "type": "node",
+      "id": 4238327934,
+      "lat": 29.3025104,
+      "lon": -82.2062295
+    },
+    {
+      "type": "node",
+      "id": 447888565,
+      "lat": 29.3071938,
+      "lon": -82.2076526
+    },
+    {
+      "type": "node",
+      "id": 447888640,
+      "lat": 29.3072631,
+      "lon": -82.2074222
+    },
+    {
+      "type": "node",
+      "id": 4238327940,
+      "lat": 29.3054453,
+      "lon": -82.2071597
+    },
+    {
+      "type": "node",
+      "id": 4238327941,
+      "lat": 29.3054725,
+      "lon": -82.206925
+    },
+    {
+      "type": "node",
+      "id": 4238327947,
+      "lat": 29.309845,
+      "lon": -82.2081481
+    }
+  ]
+}

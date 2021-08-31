@@ -1,0 +1,13 @@
+import os, sys
+
+"""
+cmd= 'sumo.exe -c Grid.sumocfg'
+#cmd2="python xml2csv.py -c input.xml"
+# we need to import python modules from the $SUMO_HOME/tools directory
+
+
+for i in range(10):
+    os.system(cmd)
+    print(i,":","Simulation done")
+    
+"""

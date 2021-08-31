@@ -35,4 +35,3 @@ dfrouter --net-file I75_Final.net.xml --detector-files I75_loop.add --routes-out
 you can do this in 2 steps (first convert the network to the so-called plain format, then convert this to csv):
 1) netconvert -s yournet.net.xml --plain-output-prefix plain
 2) sumo/tools/xml/xml2csv.py plain.edg.xml
-

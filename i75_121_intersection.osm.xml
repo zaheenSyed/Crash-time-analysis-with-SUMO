@@ -1,0 +1,691 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-09-03T22:05:42Z"/>
+
+  <way id="10225766">
+    <nd ref="84733667"/>
+    <nd ref="84733672"/>
+    <nd ref="84733674"/>
+    <nd ref="84733675"/>
+    <nd ref="84733676"/>
+    <nd ref="84733677"/>
+    <nd ref="84733679"/>
+    <nd ref="84733680"/>
+    <nd ref="84733681"/>
+    <nd ref="84733683"/>
+    <nd ref="84733686"/>
+    <nd ref="84733688"/>
+    <nd ref="84733689"/>
+    <nd ref="84733693"/>
+    <nd ref="84733695"/>
+    <nd ref="84733697"/>
+    <nd ref="84733700"/>
+    <nd ref="7073922735"/>
+    <nd ref="7073922734"/>
+    <nd ref="84733702"/>
+    <nd ref="2166336987"/>
+    <tag k="destination" v="Gainesville;Williston"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A63"/>
+    <tag k="tiger:county" v="Alachua, FL"/>
+  </way>
+  <way id="48682129">
+    <nd ref="84714159"/>
+    <nd ref="84846836"/>
+    <nd ref="84846834"/>
+    <nd ref="84751052"/>
+    <nd ref="1746843070"/>
+    <nd ref="84846831"/>
+    <nd ref="4072677615"/>
+    <tag k="NHS" v="Interstate"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="fdot:fihs" v="404"/>
+    <tag k="fdot:sis" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 75"/>
+    <tag k="sidewalk" v="none"/>
+    <tag k="source:maxspeed" v="FDOT &quot;Maximum Speed Limits&quot; GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="no"/>
+    <tag k="unsigned_ref" v="SR 93"/>
+  </way>
+  <way id="48682131">
+    <nd ref="4072677616"/>
+    <nd ref="84847293"/>
+    <nd ref="1746843071"/>
+    <nd ref="84735465"/>
+    <nd ref="84847288"/>
+    <nd ref="84847285"/>
+    <nd ref="84714158"/>
+    <tag k="NHS" v="Interstate"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="fdot:fihs" v="404"/>
+    <tag k="fdot:sis" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 75"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:maxspeed" v="FDOT &quot;Maximum Speed Limits&quot; GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="no"/>
+    <tag k="unsigned_ref" v="SR 93"/>
+  </way>
+  <way id="48682132">
+    <nd ref="618106183"/>
+    <nd ref="84847299"/>
+    <tag k="NHS" v="Interstate"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="fdot:fihs" v="404"/>
+    <tag k="fdot:sis" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 75"/>
+    <tag k="sidewalk" v="none"/>
+    <tag k="source:maxspeed" v="FDOT &quot;Maximum Speed Limits&quot; GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm"/>
+    <tag k="surface" v="concrete"/>
+    <tag k="toll" v="no"/>
+    <tag k="turn:lanes" v="through|through|through|slight_right"/>
+    <tag k="unsigned_ref" v="SR 93"/>
+  </way>
+  <way id="48682144">
+    <nd ref="84743370"/>
+    <nd ref="84846825"/>
+    <tag k="NHS" v="Interstate"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="change:lanes" v="yes|yes|not_right|no"/>
+    <tag k="fdot:fihs" v="404"/>
+    <tag k="fdot:sis" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 75"/>
+    <tag k="sidewalk" v="none"/>
+    <tag k="source:maxspeed" v="FDOT &quot;Maximum Speed Limits&quot; GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm"/>
+    <tag k="surface" v="concrete"/>
+    <tag k="toll" v="no"/>
+    <tag k="unsigned_ref" v="SR 93"/>
+  </way>
+  <way id="206605160">
+    <nd ref="84733704"/>
+    <nd ref="7073922708"/>
+    <nd ref="7073922707"/>
+    <nd ref="2166336965"/>
+    <nd ref="2166336984"/>
+    <nd ref="2166336985"/>
+    <nd ref="2166337008"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A63"/>
+    <tag k="tiger:county" v="Alachua, FL"/>
+  </way>
+  <way id="206605161">
+    <nd ref="2166336961"/>
+    <nd ref="4090258383"/>
+    <nd ref="84733704"/>
+    <tag k="destination" v="Gainesville"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="name" v="Southwest Williston Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="none"/>
+  </way>
+  <way id="206605170">
+    <nd ref="4072677608"/>
+    <nd ref="84793273"/>
+    <nd ref="84793275"/>
+    <nd ref="84793277"/>
+    <nd ref="2166336936"/>
+    <nd ref="2166336934"/>
+    <nd ref="2166336931"/>
+    <nd ref="2166336927"/>
+    <nd ref="2166336926"/>
+    <nd ref="2166336906"/>
+    <tag k="destination:lanes" v="Gainesville|Gainesville|Williston"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="lanes" v="3"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A63"/>
+    <tag k="tiger:county" v="Alachua, FL"/>
+    <tag k="turn:lanes" v="left|left;through|right"/>
+  </way>
+  <way id="206605173">
+    <nd ref="2166336924"/>
+    <nd ref="84743408"/>
+    <nd ref="84743406"/>
+    <nd ref="84743404"/>
+    <nd ref="84743401"/>
+    <nd ref="84743398"/>
+    <nd ref="84743397"/>
+    <nd ref="84743395"/>
+    <nd ref="84743393"/>
+    <nd ref="84743389"/>
+    <nd ref="84743388"/>
+    <nd ref="84743385"/>
+    <nd ref="84743383"/>
+    <nd ref="84743380"/>
+    <nd ref="84743378"/>
+    <nd ref="84743375"/>
+    <nd ref="84743374"/>
+    <nd ref="84743371"/>
+    <nd ref="84743370"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A63"/>
+    <tag k="tiger:county" v="Alachua, FL"/>
+    <tag k="toll" v="no"/>
+  </way>
+  <way id="206605176">
+    <nd ref="2166336987"/>
+    <nd ref="7073922736"/>
+    <nd ref="2166336967"/>
+    <nd ref="2166336959"/>
+    <nd ref="2166336957"/>
+    <nd ref="2166336952"/>
+    <tag k="destination" v="Williston"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="206605178">
+    <nd ref="2166336909"/>
+    <nd ref="2166336903"/>
+    <nd ref="2166336901"/>
+    <nd ref="2166336905"/>
+    <nd ref="2166336908"/>
+    <nd ref="2166336924"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="toll" v="no"/>
+  </way>
+  <way id="206605179">
+    <nd ref="2166336906"/>
+    <nd ref="2166336900"/>
+    <nd ref="4072677594"/>
+    <nd ref="2166336881"/>
+    <nd ref="2166336874"/>
+    <nd ref="2166336871"/>
+    <nd ref="2166336868"/>
+    <tag k="destination" v="Williston"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="no"/>
+  </way>
+  <way id="206605180">
+    <nd ref="2166337009"/>
+    <nd ref="2166337005"/>
+    <nd ref="2166336988"/>
+    <nd ref="2166336989"/>
+    <nd ref="2166337007"/>
+    <nd ref="2166337008"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="405037840">
+    <nd ref="84846825"/>
+    <nd ref="84846823"/>
+    <nd ref="4072649914"/>
+    <tag k="NHS" v="Interstate"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="fdot:fihs" v="404"/>
+    <tag k="fdot:sis" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="4"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 75"/>
+    <tag k="sidewalk" v="none"/>
+    <tag k="source:maxspeed" v="FDOT &quot;Maximum Speed Limits&quot; GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="no"/>
+    <tag k="turn:lanes" v="through|through|through|merge_to_left"/>
+    <tag k="unsigned_ref" v="SR 93"/>
+  </way>
+  <way id="405037841">
+    <nd ref="4072649914"/>
+    <nd ref="84846822"/>
+    <nd ref="84846820"/>
+    <nd ref="84846819"/>
+    <nd ref="84846817"/>
+    <nd ref="4072649897"/>
+    <tag k="NHS" v="Interstate"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="fdot:fihs" v="404"/>
+    <tag k="fdot:sis" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 75"/>
+    <tag k="sidewalk" v="none"/>
+    <tag k="source:maxspeed" v="FDOT &quot;Maximum Speed Limits&quot; GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="no"/>
+    <tag k="unsigned_ref" v="SR 93"/>
+  </way>
+  <way id="405037844">
+    <nd ref="4072649901"/>
+    <nd ref="84847311"/>
+    <nd ref="84847310"/>
+    <nd ref="84847309"/>
+    <nd ref="84847307"/>
+    <nd ref="84847305"/>
+    <nd ref="84847304"/>
+    <nd ref="84847302"/>
+    <nd ref="618106183"/>
+    <tag k="NHS" v="Interstate"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="fdot:fihs" v="404"/>
+    <tag k="fdot:sis" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 75"/>
+    <tag k="sidewalk" v="none"/>
+    <tag k="source:maxspeed" v="FDOT &quot;Maximum Speed Limits&quot; GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="no"/>
+    <tag k="unsigned_ref" v="SR 93"/>
+  </way>
+  <way id="405040547">
+    <nd ref="84847299"/>
+    <nd ref="84733667"/>
+    <tag k="NHS" v="Interstate"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="fdot:fihs" v="404"/>
+    <tag k="fdot:sis" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 75"/>
+    <tag k="sidewalk" v="none"/>
+    <tag k="source:maxspeed" v="FDOT &quot;Maximum Speed Limits&quot; GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="no"/>
+    <tag k="turn:lanes" v="through|through|through|slight_right"/>
+    <tag k="unsigned_ref" v="SR 93"/>
+  </way>
+  <way id="405040548">
+    <nd ref="84733667"/>
+    <nd ref="84790744"/>
+    <tag k="NHS" v="Interstate"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="fdot:fihs" v="404"/>
+    <tag k="fdot:sis" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 75"/>
+    <tag k="sidewalk" v="none"/>
+    <tag k="source:maxspeed" v="FDOT &quot;Maximum Speed Limits&quot; GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="no"/>
+    <tag k="unsigned_ref" v="SR 93"/>
+  </way>
+  <way id="405040550">
+    <nd ref="84790744"/>
+    <nd ref="84847294"/>
+    <tag k="NHS" v="Interstate"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="change:lanes" v="yes|yes|not_right|no"/>
+    <tag k="fdot:fihs" v="404"/>
+    <tag k="fdot:sis" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 75"/>
+    <tag k="sidewalk" v="none"/>
+    <tag k="source:maxspeed" v="FDOT &quot;Maximum Speed Limits&quot; GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="no"/>
+    <tag k="unsigned_ref" v="SR 93"/>
+  </way>
+  <way id="405040551">
+    <nd ref="84847294"/>
+    <nd ref="4072677616"/>
+    <tag k="NHS" v="Interstate"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="fdot:fihs" v="404"/>
+    <tag k="fdot:sis" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 75"/>
+    <tag k="sidewalk" v="none"/>
+    <tag k="source:maxspeed" v="FDOT &quot;Maximum Speed Limits&quot; GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="no"/>
+    <tag k="turn:lanes" v="through|through|through|merge_to_left"/>
+    <tag k="unsigned_ref" v="SR 93"/>
+  </way>
+  <way id="405040552">
+    <nd ref="4072677615"/>
+    <nd ref="84793267"/>
+    <tag k="NHS" v="Interstate"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="fdot:fihs" v="404"/>
+    <tag k="fdot:sis" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 75"/>
+    <tag k="sidewalk" v="none"/>
+    <tag k="source:maxspeed" v="FDOT &quot;Maximum Speed Limits&quot; GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="no"/>
+    <tag k="turn:lanes" v="through|through|through|slight_right"/>
+    <tag k="unsigned_ref" v="SR 93"/>
+  </way>
+  <way id="405040553">
+    <nd ref="84793267"/>
+    <nd ref="84846829"/>
+    <nd ref="84743370"/>
+    <tag k="NHS" v="Interstate"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="fdot:fihs" v="404"/>
+    <tag k="fdot:sis" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 75"/>
+    <tag k="sidewalk" v="none"/>
+    <tag k="source:maxspeed" v="FDOT &quot;Maximum Speed Limits&quot; GIS data, updated August 27, 2011: http://www.dot.state.fl.us/planning/statistics/gis/roaddata.shtm"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="no"/>
+    <tag k="unsigned_ref" v="SR 93"/>
+  </way>
+  <way id="405040578">
+    <nd ref="2166336987"/>
+    <nd ref="618106896"/>
+    <nd ref="618106898"/>
+    <nd ref="2166336961"/>
+    <tag k="destination" v="Gainesville"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A63"/>
+    <tag k="tiger:county" v="Alachua, FL"/>
+  </way>
+  <way id="405040582">
+    <nd ref="2166336906"/>
+    <nd ref="2166336896"/>
+    <nd ref="2166336878"/>
+    <nd ref="2166336876"/>
+    <nd ref="84743409"/>
+    <tag k="destination" v="Gainesville"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A63"/>
+    <tag k="tiger:county" v="Alachua, FL"/>
+    <tag k="turn:lanes" v="left|left;through"/>
+  </way>
+  <way id="405040586">
+    <nd ref="84793267"/>
+    <nd ref="84793269"/>
+    <nd ref="84793270"/>
+    <nd ref="84793272"/>
+    <nd ref="4072677608"/>
+    <tag k="destination" v="Gainesville;Williston"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A63"/>
+    <tag k="tiger:county" v="Alachua, FL"/>
+    <tag k="toll" v="no"/>
+  </way>
+  <way id="757456815">
+    <nd ref="2166337008"/>
+    <nd ref="84790724"/>
+    <nd ref="84790725"/>
+    <nd ref="84790727"/>
+    <nd ref="84790728"/>
+    <nd ref="84790730"/>
+    <nd ref="84790732"/>
+    <nd ref="84790734"/>
+    <nd ref="84790735"/>
+    <nd ref="84790737"/>
+    <nd ref="84790739"/>
+    <nd ref="84790741"/>
+    <nd ref="84790742"/>
+    <nd ref="84790744"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A63"/>
+    <tag k="tiger:county" v="Alachua, FL"/>
+  </way>
+  <way id="778959588">
+    <nd ref="84743409"/>
+    <nd ref="2166336879"/>
+    <nd ref="2166336898"/>
+    <nd ref="2166336924"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A63"/>
+    <tag k="tiger:county" v="Alachua, FL"/>
+    <tag k="toll" v="no"/>
+  </way>
+  <node id="84846817" lat="29.5940530" lon="-82.3662640"/>
+  <node id="84846819" lat="29.5955050" lon="-82.3675760"/>
+  <node id="84846820" lat="29.5958530" lon="-82.3678800"/>
+  <node id="84846822" lat="29.5989250" lon="-82.3706340"/>
+  <node id="84847305" lat="29.5989250" lon="-82.3703270"/>
+  <node id="84847307" lat="29.5981070" lon="-82.3696020"/>
+  <node id="84847309" lat="29.5967070" lon="-82.3683430"/>
+  <node id="84847310" lat="29.5950880" lon="-82.3669040"/>
+  <node id="84847311" lat="29.5945220" lon="-82.3663860"/>
+  <node id="4072649901" lat="29.5937714" lon="-82.3657207"/>
+  <node id="84846831" lat="29.6098590" lon="-82.3804380"/>
+  <node id="84847293" lat="29.6089230" lon="-82.3792910"/>
+  <node id="1746843070" lat="29.6119871" lon="-82.3822652"/>
+  <node id="1746843071" lat="29.6120265" lon="-82.3820127"/>
+  <node id="84733667" lat="29.6023993" lon="-82.3734458"/>
+  <node id="84733672" lat="29.6028400" lon="-82.3736510"/>
+  <node id="84733674" lat="29.6029390" lon="-82.3736890"/>
+  <node id="84733675" lat="29.6030430" lon="-82.3737040"/>
+  <node id="84733676" lat="29.6031480" lon="-82.3736980"/>
+  <node id="84733677" lat="29.6032490" lon="-82.3736690"/>
+  <node id="84733679" lat="29.6033440" lon="-82.3736190"/>
+  <node id="84733680" lat="29.6034290" lon="-82.3735480"/>
+  <node id="84733681" lat="29.6034830" lon="-82.3734790"/>
+  <node id="84733683" lat="29.6035320" lon="-82.3733700"/>
+  <node id="84733686" lat="29.6035470" lon="-82.3733110"/>
+  <node id="84733688" lat="29.6035540" lon="-82.3732490"/>
+  <node id="84733689" lat="29.6035540" lon="-82.3731550"/>
+  <node id="84733693" lat="29.6035310" lon="-82.3730340"/>
+  <node id="84733695" lat="29.6034960" lon="-82.3729490"/>
+  <node id="84733697" lat="29.6034480" lon="-82.3728730"/>
+  <node id="84733700" lat="29.6032451" lon="-82.3726717"/>
+  <node id="84733702" lat="29.6031031" lon="-82.3725740"/>
+  <node id="84733704" lat="29.6027168" lon="-82.3722820"/>
+  <node id="84743370" lat="29.6022089" lon="-82.3735797"/>
+  <node id="84743371" lat="29.6025770" lon="-82.3741210"/>
+  <node id="84743374" lat="29.6026090" lon="-82.3741920"/>
+  <node id="84743375" lat="29.6026420" lon="-82.3743050"/>
+  <node id="84743378" lat="29.6026550" lon="-82.3743840"/>
+  <node id="84743380" lat="29.6026590" lon="-82.3744630"/>
+  <node id="84743383" lat="29.6026540" lon="-82.3745440"/>
+  <node id="84743385" lat="29.6026420" lon="-82.3746220"/>
+  <node id="84743388" lat="29.6026210" lon="-82.3746910"/>
+  <node id="84743389" lat="29.6025930" lon="-82.3747500"/>
+  <node id="84743393" lat="29.6025390" lon="-82.3748290"/>
+  <node id="84743395" lat="29.6024720" lon="-82.3748930"/>
+  <node id="84743397" lat="29.6023940" lon="-82.3749400"/>
+  <node id="84743398" lat="29.6023100" lon="-82.3749690"/>
+  <node id="84743401" lat="29.6022220" lon="-82.3749760"/>
+  <node id="84743404" lat="29.6021300" lon="-82.3749620"/>
+  <node id="84743406" lat="29.6020420" lon="-82.3749260"/>
+  <node id="84743408" lat="29.6019780" lon="-82.3748840"/>
+  <node id="84743409" lat="29.6012850" lon="-82.3742769"/>
+  <node id="84790724" lat="29.6032055" lon="-82.3725514"/>
+  <node id="84790725" lat="29.6036010" lon="-82.3729550"/>
+  <node id="84790727" lat="29.6036540" lon="-82.3730600"/>
+  <node id="84790728" lat="29.6036950" lon="-82.3731720"/>
+  <node id="84790730" lat="29.6037240" lon="-82.3732880"/>
+  <node id="84790732" lat="29.6038410" lon="-82.3739740"/>
+  <node id="84790734" lat="29.6038770" lon="-82.3741290"/>
+  <node id="84790735" lat="29.6039460" lon="-82.3743560"/>
+  <node id="84790737" lat="29.6040340" lon="-82.3745760"/>
+  <node id="84790739" lat="29.6041020" lon="-82.3747170"/>
+  <node id="84790741" lat="29.6042430" lon="-82.3749350"/>
+  <node id="84790742" lat="29.6043890" lon="-82.3751180"/>
+  <node id="84790744" lat="29.6046010" lon="-82.3754130"/>
+  <node id="84793267" lat="29.6044660" lon="-82.3755930"/>
+  <node id="84793269" lat="29.6040180" lon="-82.3753520"/>
+  <node id="84793270" lat="29.6038560" lon="-82.3752710"/>
+  <node id="84793272" lat="29.6035820" lon="-82.3751900"/>
+  <node id="84793273" lat="29.6033860" lon="-82.3751550"/>
+  <node id="84793275" lat="29.6032440" lon="-82.3751420"/>
+  <node id="84793277" lat="29.6023985" lon="-82.3751388"/>
+  <node id="84846823" lat="29.6006900" lon="-82.3722370"/>
+  <node id="84846825" lat="29.6017681" lon="-82.3731728"/>
+  <node id="84846829" lat="29.6031110" lon="-82.3743770"/>
+  <node id="84847294" lat="29.6052499" lon="-82.3759813"/>
+  <node id="84847299" lat="29.6023432" lon="-82.3733936"/>
+  <node id="84847302" lat="29.6013400" lon="-82.3724790"/>
+  <node id="618106183" lat="29.6018996" lon="-82.3729892"/>
+  <node id="618106896" lat="29.6029271" lon="-82.3724930"/>
+  <node id="618106898" lat="29.6028813" lon="-82.3724577"/>
+  <node id="2166336868" lat="29.6010458" lon="-82.3747977"/>
+  <node id="2166336871" lat="29.6011758" lon="-82.3747237"/>
+  <node id="2166336874" lat="29.6012862" lon="-82.3746745"/>
+  <node id="2166336876" lat="29.6013408" lon="-82.3744017"/>
+  <node id="2166336878" lat="29.6013759" lon="-82.3744672"/>
+  <node id="2166336879" lat="29.6013796" lon="-82.3743455"/>
+  <node id="2166336881" lat="29.6013979" lon="-82.3746570"/>
+  <node id="2166336896" lat="29.6014185" lon="-82.3745173"/>
+  <node id="2166336898" lat="29.6014524" lon="-82.3744014"/>
+  <node id="2166336900" lat="29.6015043" lon="-82.3746754"/>
+  <node id="2166336901" lat="29.6015932" lon="-82.3743538"/>
+  <node id="2166336903" lat="29.6016008" lon="-82.3742017"/>
+  <node id="2166336905" lat="29.6016160" lon="-82.3744674"/>
+  <node id="2166336906" lat="29.6016638" lon="-82.3747608"/>
+  <node id="2166336908" lat="29.6016647" lon="-82.3745618"/>
+  <node id="2166336909" lat="29.6016979" lon="-82.3739112"/>
+  <node id="2166336924" lat="29.6017295" lon="-82.3746558"/>
+  <node id="2166336926" lat="29.6018662" lon="-82.3749447"/>
+  <node id="2166336927" lat="29.6019454" lon="-82.3750030"/>
+  <node id="2166336931" lat="29.6020232" lon="-82.3750513"/>
+  <node id="2166336934" lat="29.6021468" lon="-82.3751032"/>
+  <node id="2166336936" lat="29.6022691" lon="-82.3751287"/>
+  <node id="2166336952" lat="29.6025878" lon="-82.3726928"/>
+  <node id="2166336957" lat="29.6027212" lon="-82.3725960"/>
+  <node id="2166336959" lat="29.6027985" lon="-82.3725651"/>
+  <node id="2166336961" lat="29.6028102" lon="-82.3723881"/>
+  <node id="2166336965" lat="29.6028757" lon="-82.3722966"/>
+  <node id="2166336967" lat="29.6028882" lon="-82.3725480"/>
+  <node id="2166336984" lat="29.6029423" lon="-82.3723203"/>
+  <node id="2166336985" lat="29.6029875" lon="-82.3723433"/>
+  <node id="2166336987" lat="29.6030468" lon="-82.3725475"/>
+  <node id="2166336988" lat="29.6030547" lon="-82.3722289"/>
+  <node id="2166336989" lat="29.6030605" lon="-82.3722892"/>
+  <node id="2166337007" lat="29.6030810" lon="-82.3723650"/>
+  <node id="2166337008" lat="29.6031200" lon="-82.3724483"/>
+  <node id="4072677594" lat="29.6014539" lon="-82.3746594"/>
+  <node id="4072677608" lat="29.6034904" lon="-82.3751714"/>
+  <node id="4072677615" lat="29.6046880" lon="-82.3757925"/>
+  <node id="4090258383" lat="29.6027597" lon="-82.3723307"/>
+  <node id="7073922707" lat="29.6028272" lon="-82.3722885"/>
+  <node id="7073922708" lat="29.6027838" lon="-82.3722859"/>
+  <node id="7073922734" lat="29.6031526" lon="-82.3726040"/>
+  <node id="7073922735" lat="29.6032049" lon="-82.3726369"/>
+  <node id="7073922736" lat="29.6029606" lon="-82.3725468"/>
+  <node id="84847304" lat="29.6004190" lon="-82.3716720"/>
+  <node id="2166337005" lat="29.6030691" lon="-82.3721371"/>
+  <node id="2166337009" lat="29.6031055" lon="-82.3719815"/>
+  <node id="4072649914" lat="29.6001735" lon="-82.3717679"/>
+  <node id="4072677616" lat="29.6068075" lon="-82.3773848"/>
+  <node id="84714158" lat="29.6171096" lon="-82.3858135"/>
+  <node id="84714159" lat="29.6170015" lon="-82.3860180"/>
+  <node id="84735465" lat="29.6126816" lon="-82.3825424"/>
+  <node id="84751052" lat="29.6130285" lon="-82.3831115"/>
+  <node id="84846834" lat="29.6141280" lon="-82.3839580"/>
+  <node id="84846836" lat="29.6150440" lon="-82.3846410"/>
+  <node id="84847285" lat="29.6158820" lon="-82.3849610"/>
+  <node id="84847288" lat="29.6144080" lon="-82.3838920"/>
+  <node id="4072649897" lat="29.5933485" lon="-82.3656387"/>
+
+</osm>

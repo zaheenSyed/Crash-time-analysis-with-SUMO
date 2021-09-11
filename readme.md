@@ -46,9 +46,13 @@ Open terminal and run the code.
 ## Follow the [Advanced Tutorial](https://sumo.dlr.de/docs/Tutorials/Hello_SUMO.html)
 
 - create nodes done ✅
-- creat edges [not done : dont know why]
+- creat edges [not done : dont know why] [ as per Reza Bhai it is done automatically when net edit is created]
 - creat .net file done✅
 - creat route file: 🚧
+   - renamed the nodes and drawn in one note
+   - Rename the edges: This part I am not sure
+
+
 - creat a config file
 - creat settings file
 

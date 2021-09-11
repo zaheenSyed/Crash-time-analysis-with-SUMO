@@ -266,7 +266,7 @@ df_tt['interval_begin']=df_tt['interval_begin']/60
 
 time_interval=df_tt['interval_begin'].unique()
 
-edge_list=["1to2","2to3","34","4to5","5to6","6to7","7to8","8to9","9to10","10to11","11to12","12to13"]
+edge_list=["1to2","2to3","34","4to5","5to6","R4_R5","7to8","8to9","9to10","10to11","11to12","R6_R7"]
 
 travel_time=pd.DataFrame(np.transpose([time_interval]),columns=['time_interval'])
 travel_time['total']=0.0
@@ -435,7 +435,7 @@ for i in range(20):
     
     time_interval=df_tt['interval_begin'].unique()
     
-    edge_list=["1to2","2to3","3to4","4to5","5to6","6to7","7to8","8to9","9to10","10to11","11to12","12to13"]
+    edge_list=["1to2","2to3","3to4","4to5","5to6","R4_R5","7to8","8to9","9to10","10to11","11to12","R6_R7"]
     
     travel_time=pd.DataFrame(np.transpose([time_interval]),columns=['time_interval'])
     travel_time['total']=0.0

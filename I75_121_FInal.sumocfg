@@ -1,0 +1,14 @@
+<configuration>
+    <input>
+		<random value="true"/>
+		<seed value="12345"/>
+        <net-file value="I75_121_zz.net.xml"/>
+        <route-files value="I75_121.rou.xml"/>
+		<additional-files value="I75_121_router.add.xml, data.add.xml, I75_121_loop.add.xml "/>
+		<gui-settings-file value="I75_121_Final.settings.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="7200"/>
+    </time>
+</configuration>

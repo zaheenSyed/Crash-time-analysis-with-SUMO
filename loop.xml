@@ -578,4 +578,5 @@
     <interval begin="6900.00" end="7200.00" id="loop8_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6900.00" end="7200.00" id="loop8_2" nVehContrib="74" flow="888.00" occupancy="4.65" speed="26.92" harmonicMeanSpeed="26.65" length="5.03" nVehEntered="74"/>
     <interval begin="6900.00" end="7200.00" id="loop8_3" nVehContrib="109" flow="1308.00" occupancy="6.50" speed="28.43" harmonicMeanSpeed="28.28" length="5.06" nVehEntered="109"/>
-    <interval begin="6
+    <interval begin="6900.00" end="7200.00" id="loop8_4" nVehContrib="144" flow="1728.00" occupancy="7.73" speed="31.18" harmonicMeanSpeed="31.04" length="5.00" nVehEntered="144"/>
+</detector>

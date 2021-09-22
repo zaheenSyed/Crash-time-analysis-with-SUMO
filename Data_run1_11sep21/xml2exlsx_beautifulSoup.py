@@ -1,7 +1,6 @@
 ## beautiful soup library to read XML
 
 
-
 import pandas as pd
 from bs4 import BeautifulSoup
 

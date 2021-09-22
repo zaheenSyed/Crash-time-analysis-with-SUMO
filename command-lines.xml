@@ -2,7 +2,6 @@
 
 netconvert --osm-files berlin.osm.xml -o berlin.net.xml
 
-
 ## FCD output:
 
 sumo -c hello.sumocfg --fcd-output sumoTrace.xml
@@ -11,26 +10,19 @@ sumo -c hello.sumocfg --fcd-output sumoTrace.xml
 
 python plot_trajectories.py fcd.xml -t td -o plot.png -s
 
-
-##Full Output:
+## Full Output:
 
 sumo -c hello.sumocfg --full-output sumofull.xml
-
 
 ## xml2csv:
 
 python xml2csv.py input.xml
 
-
 ## Random trip generation
 
 py path\randomTrips.py -n updated.net.xml -r updated.rou.xml -e 50 -l
 
-
-
 dfrouter --net-file I75_Final.net.xml --detector-files I75_loop.add --routes-output I75_route2.rou.xml  --measure-files loop_file
-
-
 
 you can do this in 2 steps (first convert the network to the so-called plain format, then convert this to csv):
 1) netconvert -s yournet.net.xml --plain-output-prefix plain

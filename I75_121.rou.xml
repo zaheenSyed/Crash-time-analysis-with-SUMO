@@ -11,8 +11,6 @@
 	</vType>
     
 	
-	
-	
 	<vType id="type2" color="1,0,0" maxSpeed="65" speedFactor="normc(1,0.3,0.2,1.4)" speedDev="0.1" vClass="truck" guiShape="truck" probability="0.02">
 		<param key="has.ssm.device" value="true"/>
 		<param key="device.ssm.measures" value="TTC DRAC"/> 
@@ -30,8 +28,6 @@
 	<route id="route0" color="1,1,0" edges="R1_R2 R2_R3 R3_R4"/>
 	<route id="route1" color="1,1,0" edges="R4_R5 R5_R6 R6_R7"/>
 	<route id="route2" color="1,1,0" edges="RS5_R5 R5_R6 R6_R7 R7_R8"/>
-	
-	
 	
 		
 	<flows>

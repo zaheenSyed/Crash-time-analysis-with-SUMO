@@ -25,7 +25,7 @@ from operator import itemgetter
 
 
 #in_path = r"C:\Research\NSF_Population_behaviour\Social Media\IRMA\IRMA_Data\UserBasedCollection\Back_Track" 
-in_path=r"C:\Research\TRB Paper ACC impact during hurricane evacuation\SUMO\ACC_added_with_base model\Simulation\25_ACC\Simulation_run" 
+#in_path=r"C:\Research\TRB Paper ACC impact during hurricane evacuation\SUMO\ACC_added_with_base model\Simulation\25_ACC\Simulation_run" 
                   
 
 
@@ -266,7 +266,7 @@ df_tt['interval_begin']=df_tt['interval_begin']/60
 
 time_interval=df_tt['interval_begin'].unique()
 
-edge_list=["1to2","2to3","34","4to5","5to6","R4_R5","7to8","8to9","9to10","10to11","11to12","R6_R7"]
+edge_list=["1to2","2to3","34","4to5","5to6","6to7","7to8","8to9","9to10","10to11","11to12","12to13"]
 
 travel_time=pd.DataFrame(np.transpose([time_interval]),columns=['time_interval'])
 travel_time['total']=0.0
@@ -306,7 +306,7 @@ import matplotlib.pyplot as plt
 ssm=[]
 total_TT=[]
 
-os.chdir(r'C:\Research\TRB Paper ACC impact during hurricane evacuation\SUMO\ACC_added_with_base model\Simulation\25_ACC\Simulation_run')
+#os.chdir(r'C:\Research\TRB Paper ACC impact during hurricane evacuation\SUMO\ACC_added_with_base model\Simulation\25_ACC\Simulation_run')
 
 for i in range(20):
     os.system("sumo.exe "+ "I75_FInal.sumocfg")
@@ -339,9 +339,9 @@ for i in range(20):
 
 
 
-    infile=r'C:\Research\TRB Paper ACC impact during hurricane evacuation\SUMO\ACC_added_with_base model\Simulation\25_ACC\Simulation_run\ssm_v0.csv'
+    #infile=r'C:\Research\TRB Paper ACC impact during hurricane evacuation\SUMO\ACC_added_with_base model\Simulation\25_ACC\Simulation_run\ssm_v0.csv'
     
-    #infile=r'ssm_v0_TTC.csv'
+    infile=r'ssm_v0.csv'
     
     
     #infile=r'C:\Graduate Courses\Spring 2019\CGN 6938\Final Project\Final Model\sumofull.csv'
@@ -435,7 +435,7 @@ for i in range(20):
     
     time_interval=df_tt['interval_begin'].unique()
     
-    edge_list=["1to2","2to3","3to4","4to5","5to6","R4_R5","7to8","8to9","9to10","10to11","11to12","R6_R7"]
+    edge_list=["1to2","2to3","3to4","4to5","5to6","6to7","7to8","8to9","9to10","10to11","11to12","12to13"]
     
     travel_time=pd.DataFrame(np.transpose([time_interval]),columns=['time_interval'])
     travel_time['total']=0.0

@@ -16,17 +16,17 @@ import pandas as pd
 from operator import itemgetter
 
 
-ssm=[]
-total_TT=[]
+ssm=[] # list surrogate safety measure  
+total_TT=[] # empty list to find the total Travel time
 
-os.chdir(r'D:\Github\Crash time analysis with SUMO\Data_run1_11sep21')
+os.chdir(r'D:\Github\Crash time analysis with SUMO')
 
 for i in range(2):
-    #os.system("sumo.exe "+ "I75_FInal.sumocfg")
+    os.system("sumo.exe "+ "I75_121_Final.sumocfg")
 
-    input_files1 = r"ssm_v0.xml" 
-    input_files2 = r"traveltime.xml" 
-    input_files3 =  r"loop.xml" 
+    input_files1 = r"ssm_v0.xml"  # from rou add xml
+    input_files2 = r"traveltime.xml" #from data add xml
+    input_files3 =  r"loop.xml"  # from loop add
     
     try:
     
@@ -70,9 +70,9 @@ for i in range(2):
     df1=df1.fillna(-1)
     
     
-    df_ttc=df1[(df1['minTTC_value']>=0) & (df1['minTTC_value']<=1.5)]
+    #df_ttc=df1[(df1['minTTC_value']>=0) & (df1['minTTC_value']<=1.5)]
     
-    #df_ttc=df1[df1['minTTC_value']>=0]
+    df_ttc=df1[df1['minTTC_value']>=0]
     
     
     #df_ttc=df1.copy()
@@ -98,14 +98,14 @@ for i in range(2):
     plt.tight_layout()
     plt.show()
     
-    #fig.savefig(r'C:\Research\TRB Paper ACC impact during hurricane evacuation\SUMO\Based Model\Data_analysis\TTC_plot_25.png',dpi=500)
+    fig.savefig(r'D:\Github\Crash time analysis with SUMO\TTC_plot_25.png',dpi=500)
     
     #n, bins, patches = ax4.hist(df1['minTTC_value'],10,density=False, facecolor='y', alpha=0.75)
     
     #df_drac=df1[(df1['maxDRAC_value']<7) & (df1['maxDRAC_value']>=1)]
     
-    
-    df_drac=df1[(df1['maxDRAC_value']>=3.30)]
+    # the limit should be 3.5
+    df_drac=df1[(df1['maxDRAC_value']>=0)]
 
     fig5, ax5=plt.subplots(figsize=(6,4))
     #ax5.hist(df_drac['maxDRAC_value'])
@@ -121,7 +121,7 @@ for i in range(2):
     plt.tight_layout()
     plt.show()
     
-    #fig5.savefig(r'C:\Research\TRB Paper ACC impact during hurricane evacuation\SUMO\Based Model\Data_analysis\DRAC_plot_25.png',dpi=500)
+    fig5.savefig(r'D:\Github\Crash time analysis with SUMO\DRAC_plot_25.png',dpi=500)
     
     
     
@@ -137,19 +137,21 @@ for i in range(2):
     print(len(df1))
 
 
-    infile_tt=r'traveltime.csv'
+    infile_tt=r'traveltimezz.csv'
     
     # infile=r'C:\Graduate Courses\Spring 2019\CGN 6938\Final Project\Final Model\sumofull.csv'
     
     
     df_tt=pd.read_csv(infile_tt, sep=';')
-    df_tt['edge_traveltime']=df_tt['edge_traveltime']/60
-    df_tt['interval_begin']=df_tt['interval_begin']/60
+    df_tt['traveltime']=df_tt['edge_traveltime']/60
+    df_tt['begin']=df_tt['interval_begin']/60
     
-    time_interval=df_tt['interval_begin'].unique()
+    time_interval=df_tt['begin'].unique()
     
-    edge_list=["1to2","2to3","3to4","4to5","5to6","R4_R5","7to8","8to9","9to10","10to11","11to12","R6_R7"]
+    edge_list=['L23_L2','L2_L1','L3_L23','L4_L3','L4_LS4','L5_L4','L6_L5','LS3_L3','LS4_LS41s','R1_R2','R2_R3','R3_R4','R4_R5','R4_RS4','R5_R6','R6_R7','R7_R8','RS5_R5']
+
     
+
     travel_time=pd.DataFrame(np.transpose([time_interval]),columns=['time_interval'])
     travel_time['total']=0.0
     

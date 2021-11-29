@@ -48,8 +48,6 @@ The OSM file needed to creat the map and network file for the simulation are now
 ## Follow the [Advanced Tutorial](https://sumo.dlr.de/docs/Tutorials/Hello_SUMO.html)
 note: Learn SUMO and noted in [OneNotes](https://knightsucfedu39751-my.sharepoint.com/personal/zaheensyed_knights_ucf_edu/_layouts/15/Doc.aspx?sourcedoc={4e04c994-9e9f-4905-95f4-cde895cd4b7a}&action=edit&wd=target%28Quick%20notes.one%7C614fe8f6-90eb-d44b-a06f-4c7c668a1019%2FLearning%20SUMO%7Ca9a87ba9-81a4-4849-8958-79f39e0130ae%2F%29&wdorigin=703)
 
-
-
 - create nodes done ✅
 - creat edges [not done : dont know why] [ as per Reza Bhai it is done automatically when net edit is created]
 - creat .net file done✅

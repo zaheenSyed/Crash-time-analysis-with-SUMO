@@ -21,13 +21,13 @@ total_TT=[]
 
 os.chdir(r'D:\Github\Crash time analysis with SUMO\Data_run1_11sep21')
 
-for i in range(2):
+for i in range(1):
     #os.system("sumo.exe "+ "I75_FInal.sumocfg")
 
     input_files1 = r"ssm_v0.xml" 
     input_files2 = r"traveltime.xml" 
     input_files3 =  r"loop.xml" 
-    
+    '''
     try:
     
         cmd1 = "python xml2csv.py " + input_files1
@@ -46,7 +46,9 @@ for i in range(2):
         os.system(cmd3)
 
     except:
-        print("file made")
+        print("file made")\
+        
+    '''
 
 
 
@@ -70,9 +72,9 @@ for i in range(2):
     df1=df1.fillna(-1)
     
     
-    df_ttc=df1[(df1['minTTC_value']>=0) & (df1['minTTC_value']<=1.5)]
+    #df_ttc=df1[(df1['minTTC_value']>=0) & (df1['minTTC_value']<=1.5)]
     
-    #df_ttc=df1[df1['minTTC_value']>=0]
+    df_ttc=df1[df1['minTTC_value']>=0]
     
     
     #df_ttc=df1.copy()
@@ -102,10 +104,10 @@ for i in range(2):
     
     #n, bins, patches = ax4.hist(df1['minTTC_value'],10,density=False, facecolor='y', alpha=0.75)
     
-    #df_drac=df1[(df1['maxDRAC_value']<7) & (df1['maxDRAC_value']>=1)]
+    df_drac=df1[(df1['maxDRAC_value']<7) & (df1['maxDRAC_value']>=1)]
     
     
-    df_drac=df1[(df1['maxDRAC_value']>=3.30)]
+    #df_drac=df1[(df1['maxDRAC_value']>=3.30)]
 
     fig5, ax5=plt.subplots(figsize=(6,4))
     #ax5.hist(df_drac['maxDRAC_value'])
@@ -130,25 +132,25 @@ for i in range(2):
     
     print('the length of drac: ',len(df_drac))
     
-    print(''total length',len(df_ttc)+len(df_drac))
+    print('total length',len(df_ttc)+len(df_drac))
     
     ssm.append(len(df_ttc)+len(df_drac))
     
     print(len(df1))
 
 
-    infile_tt=r'traveltime.csv'
+    infile_tt=r'traveltimezz.csv'
     
     # infile=r'C:\Graduate Courses\Spring 2019\CGN 6938\Final Project\Final Model\sumofull.csv'
     
     
     df_tt=pd.read_csv(infile_tt, sep=';')
-    df_tt['edge_traveltime']=df_tt['edge_traveltime']/60
-    df_tt['interval_begin']=df_tt['interval_begin']/60
+    df_tt['traveltime']=df_tt['traveltime']/60
+    df_tt['begin']=df_tt['begin']/60
     
-    time_interval=df_tt['interval_begin'].unique()
+    time_interval=df_tt['begin'].unique()
     
-    edge_list=["1to2","2to3","3to4","4to5","5to6","R4_R5","7to8","8to9","9to10","10to11","11to12","R6_R7"]
+    edge_list=['L23_L2','L2_L1','L3_L23','L4_L3','L4_LS4','L5_L4','L6_L5','LS3_L3','LS4_LS41s','R1_R2','R2_R3','R3_R4','R4_R5','R4_RS4','R5_R6','R6_R7','R7_R8','RS5_R5']
     
     travel_time=pd.DataFrame(np.transpose([time_interval]),columns=['time_interval'])
     travel_time['total']=0.0
@@ -156,11 +158,14 @@ for i in range(2):
     for j in edge_list:
         tt=df_tt[(df_tt['edge_id']==j)]
         tt=tt.reset_index()
-        # print(tt['edge_traveltime'])
-        travel_time[str(j)]=tt['edge_traveltime']
+        print(tt['traveltime'])
+        travel_time[str(j)]=tt['traveltime']
         travel_time['total']= travel_time['total']+travel_time[str(j)]
         total_TT.append(travel_time['total'].values)
     
+ 
+    
+
 
     
     

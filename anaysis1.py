@@ -130,7 +130,7 @@ for i in range(2):
     
     print('the length of drac: ',len(df_drac))
     
-    print(''total length',len(df_ttc)+len(df_drac))
+    print('total length',len(df_ttc)+len(df_drac))
     
     ssm.append(len(df_ttc)+len(df_drac))
     
